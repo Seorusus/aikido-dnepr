@@ -1,0 +1,16 @@
+name: 'Landingpage Geysir (experimental)'
+type: module
+description: 'Implementation of Geysir module in the case of LandingPage package.'
+# core: 8.x
+package: LandingPage
+dependencies:
+  - drupal:field
+  - landingpage
+  - paragraphs
+  - geysir
+
+# Information added by Drupal.org packaging script on 2017-05-27
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'landingpage'
+datestamp: 1495921988

@@ -1,0 +1,16 @@
+name: 'LandingPage Image'
+description: 'Image Paragraph Type for LandingPage Kit'
+type: module
+# core: 8.x
+package: LandingPage
+dependencies:
+  - field
+  - image
+  - landingpage
+  - paragraphs
+
+# Information added by Drupal.org packaging script on 2017-05-27
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'landingpage'
+datestamp: 1495921988

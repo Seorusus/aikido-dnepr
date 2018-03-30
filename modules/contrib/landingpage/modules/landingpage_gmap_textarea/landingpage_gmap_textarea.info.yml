@@ -1,0 +1,17 @@
+name: 'Landingpage GMap & TextArea'
+description: 'GoogleMap & TextArea Paragraph Type for LandingPage Kit'
+type: module
+package: LandingPage
+# core: 8.x
+dependencies:
+  - drupal:field
+  - google_map_field:google_map_field
+  - landingpage:landingpage
+  - paragraphs:paragraphs
+  - drupal:text
+
+# Information added by Drupal.org packaging script on 2017-05-27
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'landingpage'
+datestamp: 1495921988

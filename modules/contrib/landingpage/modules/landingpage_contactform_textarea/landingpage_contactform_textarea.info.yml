@@ -1,0 +1,17 @@
+name: 'LandingPage ContactForm & TextArea'
+description: 'Contact Form & TextArea Paragraph Type for LandingPage Kit'
+type: module
+# core: 8.x
+package: LandingPage
+dependencies:
+  - drupal:field
+  - landingpage:landingpage
+  - paragraphs:paragraphs
+  - drupal:text
+  - drupal:contact
+
+# Information added by Drupal.org packaging script on 2017-05-27
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'landingpage'
+datestamp: 1495921988

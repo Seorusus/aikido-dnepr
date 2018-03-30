@@ -1,0 +1,25 @@
+name: LandingPage Promo
+type: theme
+description: LandingPage starterkit template
+package: LandingPage
+# core: 8.x
+libraries:
+  - landingpage_promo/global-styling
+  - landingpage_promo/google-font 
+      
+base theme: landingpage_bootstrap
+
+regions:
+  content: Content
+
+landingpage: 1.x
+
+# you can specify additional classes supported by your theme
+landingpage classes:
+  your_new_class: Your New Class  
+
+# Information added by Drupal.org packaging script on 2017-05-27
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'landingpage'
+datestamp: 1495921988

@@ -1,0 +1,18 @@
+name: 'LandingPage Grid (experimental)'
+description: 'Grid Paragraph Type for LandingPage Kit'
+type: module
+# core: 8.x
+package: LandingPage
+dependencies:
+  - entity_reference_revisions
+  - field
+  - image
+  - landingpage
+  - paragraphs
+  - text
+
+# Information added by Drupal.org packaging script on 2017-05-27
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'landingpage'
+datestamp: 1495921988

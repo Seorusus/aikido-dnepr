@@ -1,0 +1,873 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ea83d6f-63a7-4051-b474-a34debfd8ae7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_architecture.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_charities.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_charities_m.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_dashboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_highlights.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_m1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_m2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_m3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/bstow_settings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-m1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-m2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-m3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem-m4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/images/xylem.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/landingpage_contactform_textarea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_cv_example/images/landingpage_cv_hero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_cv_example/images/landingpage_cv_me.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/landingpage_donatebtc_textarea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_event_example/images/landingpage_event_background.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_event_example/images/landingpage_event_countdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_event_example/images/landingpage_event_hero.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_event_example/images/landingpage_event_image.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/landingpage_gmap_textarea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/landingpage_hero_image_countdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/landingpage_hero_image_textarea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/landingpage_image_textarea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/landingpage_image_textfield.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/images/landingpage_promo_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/images/landingpage_promo_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/images/landingpage_promo_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/images/landingpage_promo_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/images/landingpage_promo_customization.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/images/landingpage_promo_final.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/images/landingpage_promo_usecases.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/images/landingpage_promo_who.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/images/slide1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/images/slide2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/images/slide3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/images/slide4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/landingpage_images_textareas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/landingpage_textarea_textareas.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/landingpage_textfield_images.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/landingpage_textfield_links.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/landingpage_textfield_textarea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/landingpage_video_textarea.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/countdownGlowing.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/countdownLED.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/CHANGELOG.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_links_access_filter/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_links_access_filter/admin_toolbar_links_access_filter.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_links_access_filter/admin_toolbar_links_access_filter.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/admin_toolbar_tools.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/admin_toolbar_tools.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/admin_toolbar_tools.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/admin_toolbar_tools.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/admin_toolbar_tools.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/css/tools.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/misc/icons/ffffff/d8-item.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/src/Controller/ToolbarController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/admin_toolbar_tools/src/Tests/AdminToolbarToolsAlterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/css/admin.toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/js/admin_toolbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/js/jquery.hoverIntent.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/misc/icons/0074bd/chevron-left.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/misc/icons/0074bd/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/misc/icons/ffffff/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/admin_toolbar/src/Tests/AdminToolbarAlterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/adminimal_admin_toolbar.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/adminimal_admin_toolbar.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/adminimal_admin_toolbar.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/css/adminimal_admin_toolbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/0084d7/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/barchart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/chevron-disc-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/chevron-outline-disc-close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/chevron-outline-disc-close0.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/chevron-outline-disc-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/chevron-outline-disc-down0.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/drupal-8.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/orgchart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/paintbrush.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/people.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/puzzlepiece.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/questionmark-disc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/acacac/wrench.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffcfcf/chevron-outline-disc-close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/barchart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/chevron-disc-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/chevron-outline-disc-close.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/chevron-outline-disc-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/chevron-right.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/drupal-8.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/file.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/orgchart.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/paintbrush.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/pencil.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/people.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/puzzlepiece.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/questionmark-disc.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/adminimal_admin_toolbar/images/ffffff/wrench.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_form_display.node.landingpage.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_view_display.node.landingpage.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_view_mode.paragraph.clean.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_view_mode.paragraph.four_columns.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_view_mode.paragraph.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_view_mode.paragraph.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_view_mode.paragraph.six_columns.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_view_mode.paragraph.three_columns.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/core.entity_view_mode.paragraph.two_columns.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.field.node.landingpage.field_landingpage_paragraphs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.field.node.landingpage.field_landingpage_theme.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.node.field_landingpage_paragraphs.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.node.field_landingpage_theme.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_contactform.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_date.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_donatebtc.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_gmap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_grid.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_images.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_links.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_textareas.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_textfield.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_landingpage_video.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/field.storage.paragraph.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/install/node.type.landingpage.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/config/schema/landingpage_skin.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/css/colorpicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/css/icons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/js/colorpicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/js/jscolor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/js/pay-now-button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.links.action.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/landingpage.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/bstow.landingpage.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/landingpage_casestudy_examples.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/landingpage_casestudy_examples.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_casestudy_examples/xylem.landingpage.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_clone/config/install/landingpage_clone.landingpageclone.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_clone/landingpage_clone.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_clone/landingpage_clone.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_clone/landingpage_clone.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_clone/landingpage_clone.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_clone/src/Controller/LandingPageCloneController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_clone/src/Form/LandingPageCloneForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/core.entity_form_display.paragraph.landingpage_contactform_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/core.entity_view_display.paragraph.landingpage_contactform_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/core.entity_view_display.paragraph.landingpage_contactform_textarea.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/core.entity_view_display.paragraph.landingpage_contactform_textarea.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/field.field.paragraph.landingpage_contactform_textarea.field_landingpage_contactform.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/field.field.paragraph.landingpage_contactform_textarea.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/field.field.paragraph.landingpage_contactform_textarea.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/field.field.paragraph.landingpage_contactform_textarea.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/field.field.paragraph.landingpage_contactform_textarea.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/config/install/paragraphs.paragraphs_type.landingpage_contactform_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/landingpage_contactform_textarea.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/landingpage_contactform_textarea.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_contactform_textarea/landingpage_contactform_textarea.placeholder.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_cv_example/landingpage_cv_example.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_cv_example/landingpage_cv_example.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_cv_example/landingpage_cv_example.landingpage.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/core.entity_form_display.paragraph.landingpage_donatebtc_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/core.entity_view_display.paragraph.landingpage_donatebtc_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/core.entity_view_display.paragraph.landingpage_donatebtc_textarea.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/core.entity_view_display.paragraph.landingpage_donatebtc_textarea.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/field.field.paragraph.landingpage_donatebtc_textarea.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/field.field.paragraph.landingpage_donatebtc_textarea.field_landingpage_donatebtc.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/field.field.paragraph.landingpage_donatebtc_textarea.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/field.field.paragraph.landingpage_donatebtc_textarea.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/field.field.paragraph.landingpage_donatebtc_textarea.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/config/install/paragraphs.paragraphs_type.landingpage_donatebtc_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/landingpage_donatebtc_textarea.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_donatebtc_textarea/landingpage_donatebtc_textarea.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_event_example/landingpage_event_example.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_event_example/landingpage_event_example.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_event_example/landingpage_event_example.landingpage.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_export/config/install/landingpage_export.landingpageexport.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_export/landingpage_export.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_export/landingpage_export.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_export/landingpage_export.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_export/landingpage_export.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_export/src/Controller/LandingPageExportController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_export/src/Form/LandingPageExportForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/css/landingpage_geysir.paragraphs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/images/geysir-add.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/images/geysir-clone.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/images/geysir-customize.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/images/geysir-down.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/images/geysir-up.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/js/landingpage_geysir.paragraphs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/landingpage_geysir.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/landingpage_geysir.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/landingpage_geysir.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/landingpage_geysir.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/src/Controller/LandingpageGeysirController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/src/Form/LandingpageGeysirAddParagraphForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_geysir/src/Form/LandingpageGeysirCustomizeParagraphForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/core.entity_form_display.paragraph.landingpage_gmap_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/core.entity_view_display.paragraph.landingpage_gmap_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/core.entity_view_display.paragraph.landingpage_gmap_textarea.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/core.entity_view_display.paragraph.landingpage_gmap_textarea.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/field.field.paragraph.landingpage_gmap_textarea.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/field.field.paragraph.landingpage_gmap_textarea.field_landingpage_gmap.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/field.field.paragraph.landingpage_gmap_textarea.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/field.field.paragraph.landingpage_gmap_textarea.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/field.field.paragraph.landingpage_gmap_textarea.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/config/install/paragraphs.paragraphs_type.landingpage_gmap_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/landingpage_gmap_textarea.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/landingpage_gmap_textarea.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_gmap_textarea/landingpage_gmap_textarea.placeholder.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/core.entity_form_display.paragraph.landingpage_grid.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/core.entity_view_display.paragraph.landingpage_grid.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/core.entity_view_display.paragraph.landingpage_grid.four_columns.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/core.entity_view_display.paragraph.landingpage_grid.six_columns.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/core.entity_view_display.paragraph.landingpage_grid.three_columns.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/core.entity_view_display.paragraph.landingpage_grid.two_columns.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/field.field.paragraph.landingpage_grid.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/field.field.paragraph.landingpage_grid.field_landingpage_grid.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/field.field.paragraph.landingpage_grid.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/field.field.paragraph.landingpage_grid.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/config/install/paragraphs.paragraphs_type.landingpage_grid.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/landingpage_grid.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_grid/landingpage_grid.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/config/install/core.entity_form_display.paragraph.landingpage_hero_image_countdown.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/config/install/core.entity_view_display.paragraph.landingpage_hero_image_countdown.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/config/install/field.field.paragraph.landingpage_hero_image_countdown.field_landingpage_date.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/config/install/field.field.paragraph.landingpage_hero_image_countdown.field_landingpage_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/config/install/field.field.paragraph.landingpage_hero_image_countdown.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/config/install/paragraphs.paragraphs_type.landingpage_hero_image_countdown.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/landingpage_hero_image_countdown.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_countdown/landingpage_hero_image_countdown.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/core.entity_form_display.paragraph.landingpage_hero_image_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/core.entity_view_display.paragraph.landingpage_hero_image_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/core.entity_view_display.paragraph.landingpage_hero_image_textarea.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/core.entity_view_display.paragraph.landingpage_hero_image_textarea.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/field.field.paragraph.landingpage_hero_image_textarea.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/field.field.paragraph.landingpage_hero_image_textarea.field_landingpage_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/field.field.paragraph.landingpage_hero_image_textarea.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/field.field.paragraph.landingpage_hero_image_textarea.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/field.field.paragraph.landingpage_hero_image_textarea.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/config/install/paragraphs.paragraphs_type.landingpage_hero_image_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/landingpage_hero_image_textarea.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/landingpage_hero_image_textarea.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/landingpage_hero_image_textarea.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_hero_image_textarea/landingpage_hero_image_textarea.placeholder.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/config/install/core.entity_form_display.paragraph.landingpage_image.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/config/install/core.entity_view_display.paragraph.landingpage_image.clean.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/config/install/core.entity_view_display.paragraph.landingpage_image.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/config/install/field.field.paragraph.landingpage_image.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/config/install/field.field.paragraph.landingpage_image.field_landingpage_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/config/install/field.field.paragraph.landingpage_image.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/config/install/field.field.paragraph.landingpage_image.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/config/install/paragraphs.paragraphs_type.landingpage_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/landingpage_image.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image/landingpage_image.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/core.entity_form_display.paragraph.landingpage_image_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/core.entity_view_display.paragraph.landingpage_image_textarea.clean.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/core.entity_view_display.paragraph.landingpage_image_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/core.entity_view_display.paragraph.landingpage_image_textarea.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/core.entity_view_display.paragraph.landingpage_image_textarea.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/field.field.paragraph.landingpage_image_textarea.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/field.field.paragraph.landingpage_image_textarea.field_landingpage_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/field.field.paragraph.landingpage_image_textarea.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/field.field.paragraph.landingpage_image_textarea.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/field.field.paragraph.landingpage_image_textarea.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/config/install/paragraphs.paragraphs_type.landingpage_image_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/landingpage_image_textarea.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/landingpage_image_textarea.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/landingpage_image_textarea.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textarea/landingpage_image_textarea.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/core.entity_form_display.paragraph.landingpage_image_textfield.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/core.entity_view_display.paragraph.landingpage_image_textfield.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/core.entity_view_display.paragraph.landingpage_image_textfield.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/core.entity_view_display.paragraph.landingpage_image_textfield.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/field.field.paragraph.landingpage_image_textfield.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/field.field.paragraph.landingpage_image_textfield.field_landingpage_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/field.field.paragraph.landingpage_image_textfield.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/field.field.paragraph.landingpage_image_textfield.field_landingpage_textfield.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/field.field.paragraph.landingpage_image_textfield.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/config/install/paragraphs.paragraphs_type.landingpage_image_textfield.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/landingpage_image_textfield.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_image_textfield/landingpage_image_textfield.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/landingpage_promo_example.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/landingpage_promo_example.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_promo_example/landingpage_promo_example.landingpage.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/config/install/core.entity_form_display.paragraph.landingpage_images_textareas.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/config/install/core.entity_view_display.paragraph.landingpage_images_textareas.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/config/install/field.field.paragraph.landingpage_images_textareas.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/config/install/field.field.paragraph.landingpage_images_textareas.field_landingpage_images.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/config/install/field.field.paragraph.landingpage_images_textareas.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/config/install/field.field.paragraph.landingpage_images_textareas.field_landingpage_textareas.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/config/install/field.field.paragraph.landingpage_images_textareas.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/config/install/paragraphs.paragraphs_type.landingpage_images_textareas.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/landingpage_images_textareas.placeholder.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/landingpage_simple_slider.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_simple_slider/landingpage_simple_slider.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_static/config/install/landingpage_static.landingpagestatic.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_static/landingpage_static.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_static/landingpage_static.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_static/landingpage_static.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_static/landingpage_static.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_static/src/Controller/LandingPageStaticController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_static/src/Form/LandingPageStaticForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/config/install/core.entity_form_display.paragraph.landingpage_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/config/install/core.entity_view_display.paragraph.landingpage_textarea.clean.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/config/install/core.entity_view_display.paragraph.landingpage_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/config/install/field.field.paragraph.landingpage_textarea.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/config/install/field.field.paragraph.landingpage_textarea.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/config/install/field.field.paragraph.landingpage_textarea.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/config/install/field.field.paragraph.landingpage_textarea.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/config/install/paragraphs.paragraphs_type.landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/landingpage_textarea.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea/landingpage_textarea.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/config/install/core.entity_form_display.paragraph.landingpage_textarea_textareas.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/config/install/core.entity_view_display.paragraph.landingpage_textarea_textareas.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/config/install/field.field.paragraph.landingpage_textarea_textareas.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/config/install/field.field.paragraph.landingpage_textarea_textareas.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/config/install/field.field.paragraph.landingpage_textarea_textareas.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/config/install/field.field.paragraph.landingpage_textarea_textareas.field_landingpage_textareas.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/config/install/field.field.paragraph.landingpage_textarea_textareas.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/config/install/paragraphs.paragraphs_type.landingpage_textarea_textareas.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/landingpage_textarea_textareas.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textarea_textareas/landingpage_textarea_textareas.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/config/install/core.entity_form_display.paragraph.landingpage_textfield_images.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/config/install/core.entity_view_display.paragraph.landingpage_textfield_images.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/config/install/field.field.paragraph.landingpage_textfield_images.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/config/install/field.field.paragraph.landingpage_textfield_images.field_landingpage_images.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/config/install/field.field.paragraph.landingpage_textfield_images.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/config/install/field.field.paragraph.landingpage_textfield_images.field_landingpage_textfield.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/config/install/field.field.paragraph.landingpage_textfield_images.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/config/install/paragraphs.paragraphs_type.landingpage_textfield_images.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/landingpage_textfield_images.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_images/landingpage_textfield_images.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/core.entity_form_display.paragraph.landingpage_textfield_links.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/core.entity_view_display.paragraph.landingpage_textfield_links.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/core.entity_view_display.paragraph.landingpage_textfield_links.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/core.entity_view_display.paragraph.landingpage_textfield_links.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/field.field.paragraph.landingpage_textfield_links.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/field.field.paragraph.landingpage_textfield_links.field_landingpage_links.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/field.field.paragraph.landingpage_textfield_links.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/field.field.paragraph.landingpage_textfield_links.field_landingpage_textfield.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/field.field.paragraph.landingpage_textfield_links.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/config/install/paragraphs.paragraphs_type.landingpage_textfield_links.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/landingpage_textfield_links.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_links/landingpage_textfield_links.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/core.entity_form_display.paragraph.landingpage_textfield_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/core.entity_view_display.paragraph.landingpage_textfield_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/core.entity_view_display.paragraph.landingpage_textfield_textarea.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/core.entity_view_display.paragraph.landingpage_textfield_textarea.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/field.field.paragraph.landingpage_textfield_textarea.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/field.field.paragraph.landingpage_textfield_textarea.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/field.field.paragraph.landingpage_textfield_textarea.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/field.field.paragraph.landingpage_textfield_textarea.field_landingpage_textfield.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/field.field.paragraph.landingpage_textfield_textarea.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/config/install/paragraphs.paragraphs_type.landingpage_textfield_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/landingpage_textfield_textarea.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/landingpage_textfield_textarea.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/landingpage_textfield_textarea.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_textfield_textarea/landingpage_textfield_textarea.placeholder.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/core.entity_form_display.paragraph.landingpage_video_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/core.entity_view_display.paragraph.landingpage_video_textarea.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/core.entity_view_display.paragraph.landingpage_video_textarea.left.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/core.entity_view_display.paragraph.landingpage_video_textarea.right.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/field.field.paragraph.landingpage_video_textarea.field_landingpage_display.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/field.field.paragraph.landingpage_video_textarea.field_landingpage_skin.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/field.field.paragraph.landingpage_video_textarea.field_landingpage_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/field.field.paragraph.landingpage_video_textarea.field_landingpage_video.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/field.field.paragraph.landingpage_video_textarea.field_paragraph_anchor.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/config/install/paragraphs.paragraphs_type.landingpage_video_textarea.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/landingpage_video_textarea.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/modules/landingpage_video_textarea/landingpage_video_textarea.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Controller/Controller.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Entity/LandingPageSkin.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Entity/LandingPageSkinInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Form/LandingPageSkinDeleteForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Form/LandingPageSkinForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/LandingPageSkinHtmlRouteProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/LandingPageSkinListBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldFormatter/LandingPageThemeFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldFormatter/ParagraphAnchorFieldFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldFormatter/ParagraphContactFieldFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldFormatter/ParagraphDisplayFieldFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldFormatter/ParagraphDonateFieldFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldFormatter/ParagraphSkinFieldFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldType/LandingPageThemeFieldType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldType/ParagraphAnchorFieldType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldType/ParagraphContactFieldType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldType/ParagraphDisplayFieldType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldType/ParagraphDonateFieldType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldType/ParagraphSkinFieldType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldWidget/LandingPageThemeWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldWidget/ParagraphAnchorFieldWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldWidget/ParagraphContactFieldWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldWidget/ParagraphDisplayFieldWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldWidget/ParagraphDonateFieldWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Plugin/Field/FieldWidget/ParagraphSkinFieldWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/src/Theme/LandingpageThemeNegotiator.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/css/landingpage.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/css/landingpage.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/css/prepros-6.config" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/landingpage_bootstrap.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/landingpage_bootstrap.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/landingpage_bootstrap.theme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/county/css/county.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/county/css/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/county/js/county.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/county/js/jquery-1.8.3.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-bn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-bs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-cy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-et.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-fa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-fo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-gl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-gu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-he.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-hr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-hy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-id.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-is.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ja.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-kn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ko.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-lt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-lv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-mk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ms.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-my.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-pt-BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-sq.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-sr-SR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-sr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-uk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-ur.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-uz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-vi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-zh-CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown-zh-TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.countdown.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.plugin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.plugin.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/libraries/jquery.countdown/jquery.plugin.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/block--local-tasks-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/block--page-title-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/field--node.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/field--paragraph--field-landingpage-links--landingpage-textfield-links.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/html.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/node.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/page.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-contactform-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-contactform-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-contactform-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-donatebtc-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-donatebtc-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-donatebtc-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-gmap-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-gmap-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-gmap-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-grid--four-columns.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-grid--six-columns.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-grid--three-columns.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-grid--two-columns.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-grid.html.twig copy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-hero-image-countdown.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-hero-image-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-hero-image-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-hero-image-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-image--clean.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-image-textarea--clean.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-image-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-image-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-image-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-image-textfield.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-image.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-images-textareas.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textarea--clean.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textarea-textareas.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textfield-images.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textfield-links--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textfield-links--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textfield-links.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textfield-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textfield-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-textfield-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-video-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-video-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/paragraph--landingpage-video-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/region.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_bootstrap/templates/system/status-messages.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/landingpage_casestudy.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/landingpage_casestudy.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/block--casestudyfooter.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/block--landingpage-casestudyfooter.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/block--system-branding-block.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/page.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-image-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-image-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-image-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-image-textfield--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-image-textfield--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-image-textfield.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-textarea-textareas.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-textfield-images.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-textfield-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_casestudy/templates/paragraph--landingpage-textfield-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_cv/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_cv/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_cv/landingpage_cv.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_cv/landingpage_cv.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_event/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_event/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_event/landingpage_event.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_event/landingpage_event.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_event/templates/paragraph--landingpage-video-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/landingpage_promo.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/landingpage_promo.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/landingpage_promo.theme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/templates/paragraph--landingpage-hero-image-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/templates/paragraph--landingpage-hero-image-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/templates/paragraph--landingpage-hero-image-textarea.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/templates/paragraph--landingpage-textarea-textareas.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/templates/paragraph--landingpage-textfield-textarea--left.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_promo/templates/paragraph--landingpage-textfield-textarea--right.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_starterkit/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_starterkit/THEMENAME.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_starterkit/THEMENAME.starterkit.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_starterkit/THEMENAME.theme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_starterkit/css/global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_starterkit/js/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/landingpage/themes/landingpage_starterkit/templates/README.txt" />
+    </list>
+    <ignored path="aikido-dnepr.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DrupalConfiguration" enabled="true" version="8">
+    <drupalPath>$PROJECT_DIR$</drupalPath>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="aikido-dnepr" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jscolor.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/contrib/landingpage/js/jscolor.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="53" />
+    <option name="y" value="-4" />
+    <option name="width" value="1313" />
+    <option name="height" value="772" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="Errors" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/contrib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ea83d6f-63a7-4051-b474-a34debfd8ae7" name="Default" comment="" />
+      <created>1522418848497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1522418848497</updated>
+      <workItem from="1522418856680" duration="1260000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1260000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24980237" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.5027668" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/landingpage/js/jscolor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

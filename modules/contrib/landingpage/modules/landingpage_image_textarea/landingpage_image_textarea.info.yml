@@ -1,0 +1,18 @@
+name: 'Landingpage Image & TextArea'
+type: module
+description: 'Image & TextArea Paragraph Type for LandingPage Kit'
+# core: 8.x
+package: LandingPage
+dependencies:
+  - drupal:field
+  - drupal:file
+  - drupal:image
+  - landingpage:landingpage
+  - paragraphs:paragraphs
+  - drupal:text
+
+# Information added by Drupal.org packaging script on 2017-05-27
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'landingpage'
+datestamp: 1495921988

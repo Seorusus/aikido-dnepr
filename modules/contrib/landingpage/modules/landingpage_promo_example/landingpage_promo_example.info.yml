@@ -1,0 +1,16 @@
+name: LandingPage Promo Example
+type: module
+description: Generate a page with the promotional text about LandingPage module
+# core: 8.x
+package: LandingPage
+dependencies:
+  - landingpage
+  - landingpage:landingpage_simple_slider 
+  - landingpage:landingpage_hero_image_textarea
+  - landingpage:landingpage_textfield_textarea
+  - landingpage:landingpage_textarea_textareas
+# Information added by Drupal.org packaging script on 2017-05-27
+version: '8.x-1.0-alpha5'
+core: '8.x'
+project: 'landingpage'
+datestamp: 1495921988
