@@ -2,6 +2,320 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ea83d6f-63a7-4051-b474-a34debfd8ae7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/block_class.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/block_class.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/block_class.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/block_class.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/block_class.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/block_class.test" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/config/schema/block_class.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/src/Tests/BlockClassTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/tests/block_class_fe_block_test.features.fe_block_settings.inc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/tests/block_class_fe_block_test.info" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/block_class/tests/block_class_fe_block_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/config/schema/faqfield.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/faqfield.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/faqfield.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/faqfield.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/js/faqfield.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/src/Plugin/Field/FieldFormatter/FaqFieldAccordionFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/src/Plugin/Field/FieldFormatter/FaqFieldAnchorListFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/src/Plugin/Field/FieldFormatter/FaqFieldDefinitionListFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/src/Plugin/Field/FieldFormatter/FaqFieldSimpleTextFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/src/Plugin/Field/FieldType/FaqFieldItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/src/Plugin/Field/FieldWidget/FaqFieldDefaultWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/templates/faqfield-anchor-list-formatter.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/templates/faqfield-definition-list-formatter.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/templates/faqfield-jquery-accordion-formatter.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/faqfield/templates/faqfield-simple-text-formatter.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/field_group_background_image/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/field_group_background_image/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/field_group_background_image/config/schema/field_group_background_image.field_group_formatter_plugin.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/field_group_background_image/field_group_background_image.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/field_group_background_image/field_group_background_image.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/field_group_background_image/src/Plugin/field_group/FieldGroupFormatter/BackgroundImage.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/config/install/honeypot.settings.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/config/optional/tour.tour.honeypot.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/config/schema/honeypot.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/docker-compose.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/honeypot.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/honeypot.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/honeypot.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/honeypot.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/honeypot.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/honeypot.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/honeypot.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/src/Controller/HoneypotSettingsController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/src/Tests/HoneypotAdminFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/src/Tests/HoneypotFormCacheTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/src/Tests/HoneypotFormProgrammaticSubmissionTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/src/Tests/HoneypotFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/tests/modules/honeypot_test/honeypot_test.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/tests/modules/honeypot_test/honeypot_test.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/honeypot/tests/modules/honeypot_test/src/Controller/HoneypotTestController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/link_css/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/link_css/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/link_css/link_css.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/link_css/link_css.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/link_css/link_css.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/link_css/link_css.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/link_css/link_css.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/link_css/src/LinkCssAdminForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/config/install/core.entity_view_mode.paragraph.preview.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/config/schema/paragraphs_type.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/.stylelintrc.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/gulp-options.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/gulp-tasks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.actions.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.actions.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.admin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.dragdrop.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.dragdrop.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.list-builder.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.list-builder.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.modal.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.widget.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/css/paragraphs.widget.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-actions.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-changed.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-collapse-disabled.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-collapse.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-delete-disabled.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-delete.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-edit-disabled.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-edit-info.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-edit.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-error.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-lock.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-view.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/icons/icon-warning.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/js/paragraphs.actions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/js/paragraphs.admin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/js/paragraphs.dragdrop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/js/paragraphs.modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_form_display.node.paragraphed_content_demo.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.image_text.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.images.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.nested_paragraph.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.text.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.text_image.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_form_display.paragraph.user.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_view_display.node.paragraphed_content_demo.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_view_display.node.paragraphed_content_demo.teaser.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.image_text.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.images.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.nested_paragraph.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.text.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.text_image.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/core.entity_view_display.paragraph.user.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.node.paragraphed_content_demo.field_paragraphs_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.paragraph.image_text.field_image_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.paragraph.image_text.field_text_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.paragraph.images.field_images_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.paragraph.nested_paragraph.field_paragraphs_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.paragraph.text.field_text_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.paragraph.text_image.field_image_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.paragraph.text_image.field_text_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.field.paragraph.user.field_user_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.storage.node.field_paragraphs_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.storage.paragraph.field_image_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.storage.paragraph.field_images_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.storage.paragraph.field_paragraphs_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.storage.paragraph.field_text_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/field.storage.paragraph.field_user_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/language.content_settings.node.paragraphed_content_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/language.content_settings.paragraph.image_text.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/language.content_settings.paragraph.images.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/language.content_settings.paragraph.text.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/language.content_settings.paragraph.text_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/language.content_settings.paragraph.user.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/node.type.paragraphed_content_demo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.image_text.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.images.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.nested_paragraph.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.text.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.text_image.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/install/paragraphs.paragraphs_type.user.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/optional/language.entity.de.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/optional/language.entity.fr.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/optional/search_api.index.paragraphs_demo_index.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/optional/search_api.server.paragraphs_demo_server.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/config/optional/views.view.paragraphs_search.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/css/paragraphs_demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/paragraphs_demo.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/paragraphs_demo.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/paragraphs_demo.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/paragraphs_demo.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_demo/src/Tests/ParagraphsDemoTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_type_permissions/paragraphs_type_permissions.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_type_permissions/paragraphs_type_permissions.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_type_permissions/paragraphs_type_permissions.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_type_permissions/src/ParagraphsTypePermissions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/modules/paragraphs_type_permissions/src/Tests/ParagraphsTypePermissionsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.api.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.install" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.links.action.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.links.menu.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.permissions.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.post_update.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/paragraphs.services.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Annotation/ParagraphsBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Controller/ParagraphsTypeListBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Element/ParagraphOperations.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Element/ParagraphsActions.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Entity/Paragraph.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Entity/ParagraphsType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/EventSubscriber/ReplicateFieldSubscriber.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Feeds/Target/Paragraphs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Form/ParagraphsTypeDeleteConfirm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Form/ParagraphsTypeForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphAccessControlHandler.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphStorageSchema.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphViewBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphsBehaviorBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphsBehaviorCollection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphsBehaviorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphsBehaviorManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphsServiceProvider.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/ParagraphsTypeInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Plugin/EntityReferenceSelection/ParagraphSelection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Plugin/Field/FieldFormatter/ParagraphsSummaryFormatter.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Plugin/Field/FieldWidget/InlineParagraphsWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Plugin/Field/FieldWidget/ParagraphsWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsAccessTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsAddModesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsAdministrationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsConfigTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsContactTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsCoreVersionUiTestTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsEditModesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsEntityTranslationWithNonTranslatableParagraphs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsFieldGroupTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsInlineEntityFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsPreviewTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsSummaryFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsTestBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsTranslationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsTypesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsUiTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Classic/ParagraphsWidgetButtonsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalAccessTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalAddModesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalAdministrationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalBehaviorsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalConfigTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalContactTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalDuplicateFeatureTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalEditModesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalEntityTranslationWithNonTranslatableParagraphs.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalFieldGroupTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalHeaderActionsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalInlineEntityFormTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalPreviewTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalReplicateEnableTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalSummaryFormatterTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalTestBase.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalTranslationTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalTypesTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalUiTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/Experimental/ParagraphsExperimentalWidgetButtonsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/src/Tests/ParagraphsUninstallTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/templates/paragraph.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/templates/paragraphs-actions.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/templates/paragraphs-add-dialog.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/templates/paragraphs-dropbutton-wrapper.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/templates/paragraphs-info-icon.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/config/schema/paragraphs_test.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/css/bold-text.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/css/color-text.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/paragraphs_test.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/paragraphs_test.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/paragraphs_test.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/src/Plugin/paragraphs/Behavior/TestBoldTextBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/src/Plugin/paragraphs/Behavior/TestDummyBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/src/Plugin/paragraphs/Behavior/TestFieldsSelectionBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/modules/paragraphs_test/src/Plugin/paragraphs/Behavior/TestTextColorBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Functional/ParagraphsExperimentalBehaviorsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Functional/ParagraphsExperimentalDragAndDropModeTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Functional/ParagraphsExperimentalWidgetButtonsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/FunctionalJavascript/LoginAdminTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/FunctionalJavascript/ParagraphsExperimentalAddWidgetTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/FunctionalJavascript/ParagraphsExperimentalEditPerspectivesUiTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/FunctionalJavascript/ParagraphsTestBaseTrait.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Kernel/ParagraphsBehaviorPluginsTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Kernel/ParagraphsCollapsedSummaryTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Kernel/ParagraphsCompositeRelationshipTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Kernel/ParagraphsIsChangedTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Kernel/ParagraphsReplicateTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs/tests/src/Kernel/ParagraphsTypeHasEnabledBehaviorPluginTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/README.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/config/install/paragraphs_browser.paragraphs_browser_type.content.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/css/paragraphs_browser.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/js/paragraphs_browser.modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/paragraphs_browser.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/paragraphs_browser.libraries.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/paragraphs_browser.links.action.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/paragraphs_browser.links.task.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/paragraphs_browser.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/paragraphs_browser.routing.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Ajax/AddParagraphTypeCommand.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/BrowserGroupItem.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/BrowserGroupList.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/BrowserTypeInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Controller/BrowserListBuilder.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Controller/ParagraphsBrowserController.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Entity/BrowserType.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Form/BrowserGroupsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Form/BrowserTypeDeleteConfirm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Form/BrowserTypeForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Form/GroupAddForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Form/GroupDeleteConfirm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Form/GroupEditForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Form/ParagraphTypeGroupsForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Form/ParagraphsBrowserForm.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/ParagraphsBrowserManager.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/src/Plugin/Field/FieldWidget/InlineParagraphsBrowserWidget.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/templates/paragraphs-browser-paragraph-type.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_browser/templates/paragraphs-browser-wrapper.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/composer.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/config/schema/paragraphs_viewmode.schema.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/paragraphs_viewmode.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/paragraphs_viewmode.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/src/ParagraphsViewmodeBehaviorInterface.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/src/Plugin/paragraphs/Behavior/ParagraphsViewmodeBehavior.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/paragraphs_viewmode/tests/src/Functional/LoadTest.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/simple_menu_icons/LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/simple_menu_icons/simple_menu_icons.info.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/simple_menu_icons/simple_menu_icons.module" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/simple_menu_icons/templates/simple-menu-icons-css-item.html.twig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="aikido-dnepr.iws" />
@@ -25,26 +339,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="jscolor.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/modules/contrib/landingpage/js/jscolor.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="adminimal.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/adminimal_theme/css/adminimal.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="webform.ajax.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/contrib/webform/js/webform.ajax.js">
           <provider selected="true" editor-type-id="text-editor">
@@ -115,11 +409,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BlockFieldTest.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BlockFieldTest.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/contrib/block_field/src/Tests/BlockFieldTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="54">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jquery.colorbox-ar.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BlockClassTest.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/contrib/block_class/src/Tests/BlockClassTest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -187,6 +501,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -201,6 +529,7 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/modules/contrib" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/themes" />
     </key>
   </component>
@@ -256,12 +585,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1522418848497</updated>
-      <workItem from="1522418856680" duration="1858000" />
+      <workItem from="1522418856680" duration="2599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1858000" />
+    <option name="totallyTimeSpent" value="2599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
@@ -274,7 +603,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -385,8 +714,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/contrib/block_field/src/Tests/BlockFieldTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="54">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/contrib/block_class/src/Tests/BlockClassTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
