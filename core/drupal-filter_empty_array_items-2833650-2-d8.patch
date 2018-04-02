@@ -1,0 +1,15 @@
+Index: core/lib/Drupal/Core/Field/EntityReferenceFieldItemList.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- core/lib/Drupal/Core/Field/EntityReferenceFieldItemList.php	(revision f084a9ebc98add28bda4f953f5f05a1f39555947)
++++ core/lib/Drupal/Core/Field/EntityReferenceFieldItemList.php	(revision )
+@@ -105,6 +105,7 @@
+    */
+   public function defaultValuesFormSubmit(array $element, array &$form, FormStateInterface $form_state) {
+     $default_value = parent::defaultValuesFormSubmit($element, $form, $form_state);
++    $default_value = array_filter($default_value);
+ 
+     // Convert numeric IDs to UUIDs to ensure config deployability.
+     $ids = array();
