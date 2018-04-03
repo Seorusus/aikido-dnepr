@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ea83d6f-63a7-4051-b474-a34debfd8ae7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/config/install/entity_browser.browser.media_entity_browser.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/config/install/image.style.media_entity_browser_thumbnail.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/config/install/views.view.media_entity_browser.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/config/optional/embed.button.media_entity_embed.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/css/media_entity_browser.view.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/images/image.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/images/twitter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/images/video.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/js/media_entity_browser.entity_embed.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/js/media_entity_browser.view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/media_entity_browser.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/media_entity_browser.libraries.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/media_entity_browser.module" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/contrib/media_entity_browser/tests/src/FunctionalJavascript/MediaEntityBrowserTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9ea83d6f-63a7-4051-b474-a34debfd8ae7" name="Default" comment="" />
     <ignored path="aikido-dnepr.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -327,16 +310,16 @@
       <workItem from="1522673422921" duration="134000" />
       <workItem from="1522674234291" duration="1437000" />
       <workItem from="1522685748930" duration="1687000" />
-      <workItem from="1522752651989" duration="96000" />
+      <workItem from="1522752651989" duration="695000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11281000" />
+    <option name="totallyTimeSpent" value="11880000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28221345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -345,7 +328,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
