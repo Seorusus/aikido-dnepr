@@ -8788,3 +8788,16 @@ button.close {
     display: none !important;
   }
 }
+/* -- Header theming -- */
+/* line 60, ../assets/sass/style.scss */
+.region-header {
+  margin-top: 20px;
+}
+/* line 65, ../assets/sass/style.scss */
+.region-header .dropdown-language-item {
+  float: right;
+}
+/* line 70, ../assets/sass/style.scss */
+.region-header .location-2-block .field--name-body {
+  float: right;
+}

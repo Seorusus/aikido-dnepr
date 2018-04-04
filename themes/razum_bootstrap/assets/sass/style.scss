@@ -55,3 +55,20 @@
 @import "../../bootstrap/stylesheets/bootstrap/utilities";
 @import "../../bootstrap/stylesheets/bootstrap/responsive-utilities";
 
+/* -- Header theming -- */
+
+.region-header {
+  //display: grid;
+  //grid-template-columns: 0 40px 1fr 1fr 1fr;
+  margin-top: 20px;
+
+  .dropdown-language-item {
+    float: right;
+  }
+
+  .location-2-block {
+    .field--name-body {
+      float: right;
+    }
+  }
+}
