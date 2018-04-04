@@ -8889,7 +8889,7 @@ body {
 /** -- Menu theming --*/
 /* line 155, ../assets/sass/style.scss */
 .anchor-menu .menu--anchor-menu {
-  margin-top: 20px;
+  margin: 20px 0;
   display: grid;
   grid-template-columns: 0 1fr 1fr 1fr 1fr 1fr;
 }
@@ -8899,8 +8899,35 @@ body {
 }
 /* line 163, ../assets/sass/style.scss */
 .anchor-menu .menu--anchor-menu a {
+  display: inline-block;
+  line-height: 27px;
+  height: 3.5rem;
   color: #E00000;
   font-weight: 600;
-  font-size: 2.3rem;
+  font-size: 2.8rem;
   padding: 0;
+}
+/* line 171, ../assets/sass/style.scss */
+.anchor-menu .menu--anchor-menu a[href*="#anchor-1"] {
+  float: left;
+}
+/* line 174, ../assets/sass/style.scss */
+.anchor-menu .menu--anchor-menu a[href*="#anchor-9"] {
+  float: right;
+}
+/* line 177, ../assets/sass/style.scss */
+.anchor-menu .menu--anchor-menu a[href*="#anchor-2"] {
+  float: left;
+}
+/* line 180, ../assets/sass/style.scss */
+.anchor-menu .menu--anchor-menu a:hover {
+  border-bottom: solid #E00000;
+  text-decoration: none;
+  background: none;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  transition: 1s;
+  left: 0;
 }
