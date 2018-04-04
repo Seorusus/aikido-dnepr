@@ -67,16 +67,29 @@ body {
 
   .dropdown-language-item {
     float: right;
-    button {
+    .language-link {
       border: none;
       &:hover {
         border: none;
-        background-color: none;
+        background: none;
+      }
+    }
+
+    .dropdown-toggle {
+      border: none;
+      &:hover {
+        border: none;
+        background: none;
       }
     }
     .btn-default:hover {
-      background-color: none;
-      border-color: none;
+      background: none;
+      border: none;
+    }
+    .dropdown-menu a:hover {
+      text-decoration: none;
+      color: #262626;
+      background: none;
     }
   }
 
