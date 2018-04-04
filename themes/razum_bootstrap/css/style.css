@@ -8799,52 +8799,57 @@ body {
   margin-top: 20px;
 }
 /* line 68, ../assets/sass/style.scss */
+.region-header .laguage-sw-block {
+  float: right;
+  padding-right: 0;
+}
+/* line 73, ../assets/sass/style.scss */
 .region-header .dropdown-language-item {
   float: right;
 }
-/* line 70, ../assets/sass/style.scss */
+/* line 75, ../assets/sass/style.scss */
 .region-header .dropdown-language-item .language-link {
   border: none;
 }
-/* line 72, ../assets/sass/style.scss */
+/* line 77, ../assets/sass/style.scss */
 .region-header .dropdown-language-item .language-link:hover {
   border: none;
   background: none;
 }
-/* line 78, ../assets/sass/style.scss */
+/* line 83, ../assets/sass/style.scss */
 .region-header .dropdown-language-item .dropdown-toggle {
   border: none;
 }
-/* line 80, ../assets/sass/style.scss */
+/* line 85, ../assets/sass/style.scss */
 .region-header .dropdown-language-item .dropdown-toggle:hover {
   border: none;
   background: none;
 }
-/* line 85, ../assets/sass/style.scss */
+/* line 90, ../assets/sass/style.scss */
 .region-header .dropdown-language-item .btn-default:hover {
   background: none;
   border: none;
 }
-/* line 89, ../assets/sass/style.scss */
+/* line 94, ../assets/sass/style.scss */
 .region-header .dropdown-language-item .dropdown-menu a:hover {
   text-decoration: none;
   color: #262626;
   background: none;
 }
-/* line 94, ../assets/sass/style.scss */
+/* line 99, ../assets/sass/style.scss */
 .region-header .dropdown-language-item button {
   color: #009de1;
   font-weight: 600;
 }
-/* line 97, ../assets/sass/style.scss */
+/* line 102, ../assets/sass/style.scss */
 .region-header .dropdown-language-item button:hover {
   text-shadow: 0px 0px 2px rgba(150, 150, 150, 0.79);
 }
-/* line 103, ../assets/sass/style.scss */
+/* line 108, ../assets/sass/style.scss */
 .region-header .logo {
   margin-top: 0;
 }
-/* line 107, ../assets/sass/style.scss */
+/* line 112, ../assets/sass/style.scss */
 .region-header .location-1-block {
   text-transform: uppercase;
   color: #009de1;
@@ -8852,17 +8857,17 @@ body {
   font-size: 2.3rem;
   text-shadow: 0px 0px 2px rgba(150, 150, 150, 0.79);
 }
-/* line 117, ../assets/sass/style.scss */
+/* line 122, ../assets/sass/style.scss */
 .region-header .location-2-block span {
   margin: 0 0 0 20px;
 }
-/* line 121, ../assets/sass/style.scss */
+/* line 126, ../assets/sass/style.scss */
 .region-header .location-2-block a {
   color: #E00000;
   font-weight: 600;
   font-size: 2.3rem;
 }
-/* line 125, ../assets/sass/style.scss */
+/* line 130, ../assets/sass/style.scss */
 .region-header .location-2-block a:hover {
   text-decoration: none;
   color: #E06D6D;
@@ -8871,7 +8876,12 @@ body {
   -moz-transition-duration: .7s;
   transition-duration: .7s;
 }
-/* line 134, ../assets/sass/style.scss */
+/* line 139, ../assets/sass/style.scss */
 .region-header .location-2-block .field--name-body {
+  float: right;
+}
+
+/* line 147, ../assets/sass/style.scss */
+.region-highlighted .aikido-title img {
   float: right;
 }

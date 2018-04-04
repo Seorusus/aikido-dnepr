@@ -65,6 +65,11 @@ body {
   //grid-template-columns: 0 40px 1fr 1fr 1fr;
   margin-top: 20px;
 
+  .laguage-sw-block {
+    float: right;
+    padding-right: 0;
+  }
+
   .dropdown-language-item {
     float: right;
     .language-link {
@@ -137,3 +142,10 @@ body {
   }
 }
 
+.region-highlighted {
+  .aikido-title {
+    img {
+      float: right;
+    }
+  }
+}
