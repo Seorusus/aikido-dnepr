@@ -2,179 +2,182 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ea83d6f-63a7-4051-b474-a34debfd8ae7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_node_mincer/apple-touch-icon-144-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/CHANGELOG.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap-sprockets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/_bootstrap-compass.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/_bootstrap-mincer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/_bootstrap-sprockets.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/_bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_alerts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_badges.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_breadcrumbs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_button-groups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_carousel.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_close.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_code.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_component-animations.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_dropdowns.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_glyphicons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_input-groups.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_jumbotron.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_media.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_modals.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_navbar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_navs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_normalize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_pager.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_panels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_popovers.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_print.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_progress-bars.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_responsive-embed.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_responsive-utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_scaffolding.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_tables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_theme.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_thumbnails.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_tooltip.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_type.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_utilities.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_wells.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_alerts.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_background-variant.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_center-block.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_clearfix.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_gradients.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_grid.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_hide-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_image.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_list-group.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_opacity.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_pagination.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_panels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_reset-text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_resize.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_size.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_table-row.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/bootstrap-sass.gemspec" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/composer.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/eyeglass-exports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/lib/bootstrap-sass.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/lib/bootstrap-sass/engine.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/lib/bootstrap-sass/version.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/sache.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/bower.rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/char_string_scanner.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/fonts_conversion.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/js_conversion.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/less_conversion.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/logger.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/network.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/templates/project/_bootstrap-variables.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/templates/project/manifest.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/templates/project/styles.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/compass_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/compilation_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_node_mincer/application.css.ejs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_node_mincer/manifest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/README.rdoc" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/assets/stylesheets/application.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/controllers/pages_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/views/pages/root.html.slim" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/secret_token.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/session_store.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/wrap_parameters.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/locales/es.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_sass_only/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_sass_only/compile.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_sass_only/import_all.sass" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/gemfiles/rails_head.gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/gemfiles/sass_3_3.gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/gemfiles/sass_3_4.gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/gemfiles/sass_head.gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/node_mincer_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/node_sass_compile_test.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/pages_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/sass_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/sprockets_rails_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/support/dummy_rails_integration.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/support/reporting.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/test_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/test_helper_rails.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/.gitignore" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/.gitignore" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/.travis.yml" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/.travis.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/CHANGELOG.md" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/CHANGELOG.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/CONTRIBUTING.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/Gemfile" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/Gemfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/LICENSE" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/LICENSE" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/README.md" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/README.md" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/Rakefile" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/Rakefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.eot" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.svg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.ttf" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.woff" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/fonts/bootstrap/glyphicons-halflings-regular.woff2" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/images/.keep" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/images/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap-sprockets.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap-sprockets.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap.min.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/affix.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/affix.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/alert.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/alert.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/button.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/button.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/carousel.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/carousel.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/collapse.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/collapse.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/dropdown.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/dropdown.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/modal.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/modal.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/popover.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/popover.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/scrollspy.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/scrollspy.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/tab.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/tab.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/tooltip.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/tooltip.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/javascripts/bootstrap/transition.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/javascripts/bootstrap/transition.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/_bootstrap-compass.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/_bootstrap-compass.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/_bootstrap-mincer.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/_bootstrap-mincer.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/_bootstrap-sprockets.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/_bootstrap-sprockets.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/_bootstrap.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/assets/sass/style.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_alerts.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_alerts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_badges.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_badges.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_breadcrumbs.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_breadcrumbs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_button-groups.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_button-groups.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_buttons.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_carousel.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_carousel.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_close.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_close.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_code.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_code.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_component-animations.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_component-animations.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_dropdowns.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_dropdowns.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_forms.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_glyphicons.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_glyphicons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_grid.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_grid.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_input-groups.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_input-groups.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_jumbotron.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_jumbotron.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_labels.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_labels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_list-group.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_list-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_media.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_media.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_mixins.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_mixins.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_modals.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_modals.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_navbar.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_navbar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_navs.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_navs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_normalize.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_normalize.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_pager.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_pager.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_pagination.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_pagination.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_panels.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_panels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_popovers.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_popovers.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_print.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_print.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_progress-bars.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_progress-bars.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_responsive-embed.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_responsive-embed.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_responsive-utilities.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_responsive-utilities.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_scaffolding.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_scaffolding.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_tables.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_tables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_theme.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_theme.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_thumbnails.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_thumbnails.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_tooltip.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_tooltip.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_type.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_type.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_utilities.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_utilities.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_variables.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/assets/sass/_variables.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/_wells.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/_wells.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_alerts.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_alerts.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_background-variant.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_background-variant.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_border-radius.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_border-radius.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_buttons.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_buttons.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_center-block.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_center-block.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_clearfix.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_clearfix.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_forms.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_forms.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_gradients.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_gradients.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_grid-framework.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_grid.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_grid.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_hide-text.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_hide-text.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_image.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_image.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_labels.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_labels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_list-group.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_list-group.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_nav-divider.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_opacity.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_opacity.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_pagination.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_pagination.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_panels.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_panels.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_progress-bar.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_reset-filter.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_reset-text.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_reset-text.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_resize.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_resize.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_responsive-visibility.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_size.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_size.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_tab-focus.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_table-row.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_table-row.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_text-emphasis.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_text-overflow.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/bootstrap-sass.gemspec" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/bootstrap-sass.gemspec" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/bower.json" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/bower.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/composer.json" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/composer.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/eyeglass-exports.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/eyeglass-exports.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/lib/bootstrap-sass.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/lib/bootstrap-sass.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/lib/bootstrap-sass/engine.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/lib/bootstrap-sass/engine.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/lib/bootstrap-sass/version.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/lib/bootstrap-sass/version.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/package.json" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/package.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/sache.json" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/sache.json" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/bower.rake" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/tasks/bower.rake" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/tasks/converter.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/char_string_scanner.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/tasks/converter/char_string_scanner.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/fonts_conversion.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/tasks/converter/fonts_conversion.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/js_conversion.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/tasks/converter/js_conversion.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/less_conversion.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/tasks/converter/less_conversion.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/logger.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/tasks/converter/logger.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/tasks/converter/network.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/tasks/converter/network.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/templates/project/_bootstrap-variables.sass" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/templates/project/_bootstrap-variables.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/templates/project/manifest.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/templates/project/manifest.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/templates/project/styles.sass" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/templates/project/styles.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/compass_test.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/compass_test.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/compilation_test.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/compilation_test.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_node_mincer/apple-touch-icon-144-precomposed.png" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_node_mincer/apple-touch-icon-144-precomposed.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_node_mincer/application.css.ejs.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_node_mincer/application.css.ejs.scss" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_node_mincer/manifest.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_node_mincer/manifest.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/README.rdoc" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/README.rdoc" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/Rakefile" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/Rakefile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/assets/images/.keep" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/app/assets/images/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/app/assets/javascripts/application.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/assets/stylesheets/application.sass" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/app/assets/stylesheets/application.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/app/controllers/application_controller.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/controllers/pages_controller.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/app/controllers/pages_controller.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/helpers/application_helper.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/app/helpers/application_helper.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/views/layouts/application.html.erb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/app/views/layouts/application.html.erb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/app/views/pages/root.html.slim" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/app/views/pages/root.html.slim" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config.ru" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config.ru" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/application.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/application.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/boot.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/boot.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/environment.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/environment.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/environments/development.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/environments/development.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/environments/production.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/environments/production.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/environments/test.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/environments/test.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/backtrace_silencers.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/initializers/backtrace_silencers.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/filter_parameter_logging.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/initializers/filter_parameter_logging.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/inflections.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/initializers/inflections.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/mime_types.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/initializers/mime_types.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/secret_token.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/initializers/secret_token.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/session_store.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/initializers/session_store.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/initializers/wrap_parameters.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/initializers/wrap_parameters.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/locales/en.yml" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/locales/en.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/locales/es.yml" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/locales/es.yml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/config/routes.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/config/routes.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_rails/log/.keep" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_rails/log/.keep" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_sass_only/Gemfile" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_sass_only/Gemfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_sass_only/compile.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_sass_only/compile.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/dummy_sass_only/import_all.sass" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/dummy_sass_only/import_all.sass" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/gemfiles/rails_head.gemfile" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/gemfiles/rails_head.gemfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/gemfiles/sass_3_3.gemfile" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/gemfiles/sass_3_3.gemfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/gemfiles/sass_3_4.gemfile" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/gemfiles/sass_3_4.gemfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/gemfiles/sass_head.gemfile" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/gemfiles/sass_head.gemfile" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/node_mincer_test.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/node_mincer_test.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/node_sass_compile_test.sh" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/node_sass_compile_test.sh" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/pages_test.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/pages_test.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/sass_test.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/sass_test.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/sprockets_rails_test.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/sprockets_rails_test.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/support/dummy_rails_integration.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/support/dummy_rails_integration.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/support/reporting.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/support/reporting.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/test_helper.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/test_helper.rb" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap/test/test_helper_rails.rb" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/bootstrap_1/test/test_helper_rails.rb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/razum_bootstrap/scss/style.scss" afterPath="$PROJECT_DIR$/themes/razum_bootstrap/scss/style.scss" />
     </list>
     <ignored path="aikido-dnepr.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -197,81 +200,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="page.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/css/page.css">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/scss/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="216">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="razum_bootstrap.theme" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/razum_bootstrap.theme">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="72">
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="razum_bootstrap.libraries.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/razum_bootstrap.libraries.yml">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/assets/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+            <state relative-caret-position="154">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap_barrio.theme" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/bootstrap_barrio/bootstrap_barrio.theme">
+      <file leaf-file-name="config.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/config.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="razum.info.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/razum/razum.info.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap_barrio.info.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/bootstrap_barrio/bootstrap_barrio.info.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.info.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/bootstrap/bootstrap.info.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.theme" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/bootstrap/bootstrap.theme">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -291,6 +254,9 @@
         <option value="$PROJECT_DIR$/themes/razum_bootstrap/razum_bootstrap.info.yml" />
         <option value="$PROJECT_DIR$/themes/razum_bootstrap/razum_bootstrap.libraries.yml" />
         <option value="$PROJECT_DIR$/themes/razum_bootstrap/css/page.css" />
+        <option value="$PROJECT_DIR$/themes/razum_bootstrap/scss/style.scss" />
+        <option value="$PROJECT_DIR$/themes/razum_bootstrap/assets/sass/style.scss" />
+        <option value="$PROJECT_DIR$/themes/razum_bootstrap/config.rb" />
       </list>
     </option>
   </component>
@@ -336,6 +302,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -386,9 +353,52 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="razum_bootstrap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="razum_bootstrap" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -399,15 +409,16 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/razum_bootstrap" />
+      <recent name="$PROJECT_DIR$/core" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/themes/razum_bootstrap/assets/sass" />
       <recent name="$PROJECT_DIR$/themes/razum_bootstrap" />
       <recent name="$PROJECT_DIR$/modules/contrib" />
       <recent name="$PROJECT_DIR$/themes" />
       <recent name="$PROJECT_DIR$/libraries/slick" />
-      <recent name="$PROJECT_DIR$/libraries" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/core" />
     </key>
   </component>
   <component name="RunManager">
@@ -479,12 +490,14 @@
       <workItem from="1522756330039" duration="216000" />
       <workItem from="1522826574588" duration="91000" />
       <workItem from="1522827246604" duration="733000" />
-      <workItem from="1522836869554" duration="894000" />
+      <workItem from="1522836869554" duration="1744000" />
+      <workItem from="1522838728659" duration="465000" />
+      <workItem from="1522841163916" duration="2251000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13814000" />
+    <option name="totallyTimeSpent" value="17380000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -497,16 +510,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="-4" width="1313" height="772" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3027668" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31383398" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5027668" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.4972332" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -514,7 +528,6 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -535,55 +548,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/libraries/colorbox/i18n/jquery.colorbox-ar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/contrib/block_class/src/Tests/BlockClassTest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/drupal-filter_empty_array_items-2833650-2-d8.patch">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="51" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core/lib/Drupal/Core/Field/EntityReferenceFieldItemList.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/contrib/ng_lightbox/src/Form/NgLightboxSettingsForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/contrib/metatag/src/Form/MetatagDefaultsForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/modules/contrib/field_collection/src/Form/FieldCollectionItemDeleteForm.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/contrib/ds/js/ds.admin.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -824,19 +788,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modules/contrib/field_css/field_css.info" />
     <entry file="file://$PROJECT_DIR$/modules/contrib/field_css/field_css.install" />
-    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/css/page.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/razum_bootstrap.theme">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -844,7 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="432">
           <caret line="24" column="21" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -852,7 +806,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +813,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -868,7 +820,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -876,7 +827,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -884,6 +834,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/scss/_overrides.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-993">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/scss/_default-variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/scss/component/_icon.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/assets/sass/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/config.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
           <folding />
         </state>
       </provider>
