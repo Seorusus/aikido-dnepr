@@ -294,10 +294,24 @@ body {
 /** -- Federation-region theming --*/
 
 .federation-region {
-  background: url(../images/or_aikido.gif) no-repeat left bottom;
+  background: url(../images/aikido_aikido.png) no-repeat 10% 96%;
   background-color: #F7F7F7;
   background-size: 30%;
   margin: 0;
   padding: 50px;
+  font-size: 1.7rem;
+
+  .group-left {
+    width: 48%;
+    margin-right: 1%;
+  }
+  .group-right {
+    width: 48%;
+    margin-left: 1%;
+
+    .img-responsive {
+      margin: 50px auto;
+    }
+  }
 }
 

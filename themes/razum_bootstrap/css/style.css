@@ -9044,9 +9044,24 @@ body {
 /** -- Federation-region theming --*/
 /* line 296, ../assets/sass/style.scss */
 .federation-region {
-  background: url(../images/or_aikido.gif) no-repeat left bottom;
+  background: url(../images/aikido_aikido.png) no-repeat 10% 96%;
   background-color: #F7F7F7;
   background-size: 30%;
   margin: 0;
   padding: 50px;
+  font-size: 1.7rem;
+}
+/* line 304, ../assets/sass/style.scss */
+.federation-region .group-left {
+  width: 48%;
+  margin-right: 1%;
+}
+/* line 308, ../assets/sass/style.scss */
+.federation-region .group-right {
+  width: 48%;
+  margin-left: 1%;
+}
+/* line 312, ../assets/sass/style.scss */
+.federation-region .group-right .img-responsive {
+  margin: 50px auto;
 }
