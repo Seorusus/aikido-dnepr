@@ -190,3 +190,26 @@ body {
     }
   }
 }
+
+/** -- Slider front theming --*/
+
+.front-slider {
+ background: linear-gradient(to left, #E7DBDC, #fff);
+
+  .group-right {
+    float: right;
+    width: 30%;
+  }
+  ._slide-description-title {
+    color: #E00000;
+    text-shadow: -1px -1px 3px #E00000;
+    font-weight: 800;
+    font-size: 4.8rem;
+    text-transform: uppercase;
+  }
+  ._slide-description {
+    color: #251E20;
+    font-weight: 400;
+    font-size: 3rem;
+  }
+}

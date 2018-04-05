@@ -8931,3 +8931,29 @@ body {
   transition: 1s;
   left: 0;
 }
+
+/** -- Slider front theming --*/
+/* line 196, ../assets/sass/style.scss */
+.front-slider {
+  background: linear-gradient(to left, #E7DBDC, #fff);
+}
+/* line 199, ../assets/sass/style.scss */
+.front-slider .group-right {
+  float: right;
+  width: 30%;
+}
+/* line 203, ../assets/sass/style.scss */
+.front-slider ._slide-description-title {
+  color: #E00000;
+  text-shadow: -1px -1px 3px #E00000;
+  font-weight: 800;
+  font-size: 4.8rem;
+  text-transform: uppercase;
+}
+/* line 210, ../assets/sass/style.scss */
+.front-slider ._slide-description {
+  color: #251E20;
+  font-weight: 700;
+  font-size: 3rem;
+  text-transform: lowercase;
+}
