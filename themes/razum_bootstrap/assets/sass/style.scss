@@ -63,6 +63,14 @@ body {
   margin: 0 47px;
 }
 
+.red-title {
+  h3 {
+    color: #E00000;
+    font-size: 3.7rem;
+    font-weight: 700;
+    padding: 0 0 20px 0;
+  }
+}
 /** -- Header theming --*/
 
 .region-header {
@@ -288,6 +296,8 @@ body {
 .federation-region {
   background: url(../images/or_aikido.gif) no-repeat left bottom;
   background-color: #F7F7F7;
-  background-size: contain;
+  background-size: 30%;
+  margin: 0;
+  padding: 50px;
 }
 
