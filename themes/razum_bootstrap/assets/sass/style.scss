@@ -58,6 +58,11 @@
 body {
   font-family: 'Open Sans', sans-serif;
 }
+
+.anchor {
+  margin: 0 47px;
+}
+
 /** -- Header theming --*/
 
 .region-header {
@@ -195,6 +200,7 @@ body {
 
 .front-slider {
  background: linear-gradient(to left, #E7DBDC, #fff);
+ border-bottom: solid 2px #ccc;
 
   .group-right {
     float: right;
@@ -256,3 +262,32 @@ body {
   position: relative;
   top: 17px;
 }
+
+/** -- About-region theming --*/
+
+.about-region {
+    margin-top: 40px;
+    font-size: 2rem;
+    color: #6C6D6F;
+    text-shadow: -1px 0px 0px #6C6D6F;
+
+  .group-left {
+    width: 30%;
+  }
+  .group-right {
+    width: 70%;
+  }
+
+  .group-footer {
+    padding-top: 35px;
+  }
+}
+
+/** -- Federation-region theming --*/
+
+.federation-region {
+  background: url(../images/or_aikido.gif) no-repeat left bottom;
+  background-color: #F7F7F7;
+  background-size: contain;
+}
+
