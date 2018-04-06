@@ -526,6 +526,7 @@ body {
 .schedule-training-region {
   background-color: #B2BCC3;
   padding: 25px 25px 50px 25px;
+  margin: 0;
 
   h3 {
     color: #E00000;
@@ -538,7 +539,8 @@ body {
   }
 
   .schedule-group-region {
-    padding: 0 90px;
+    padding: 0 30px;
+
     h3 {
       text-transform: uppercase;
       font-weight: 700;
@@ -575,7 +577,8 @@ body {
   }
 
   .group-schedule-region {
-    padding: 0 90px;
+    padding: 0 30px;
+
     h3 {
       text-transform: uppercase;
       font-weight: 700;
@@ -646,4 +649,49 @@ body {
 
 /** -- Our-club-region theming --*/
 
+.our-club-region {
+  margin-top: 50px;
+  margin-bottom: 50px;
 
+  .group-left {
+    width: 70%;
+    margin-right: 5%;
+
+    .field--name-field-title {
+      text-align: left;
+      color: #E00000;
+      /* text-transform: uppercase; */
+      font-weight: 700;
+      font-size: 3.5rem;
+      padding: 7px 0 20px 0;
+      /* text-align: center; */
+      text-shadow: -1px -1px 3px #E00000;
+    }
+
+    .field--name-field-description-left {
+      color: #6C6D6F;
+      text-shadow: -1px 0px 0px #6C6D6F;
+      font-weight: 700;
+    }
+
+ }
+
+  .group-right {
+    width: 25%;
+
+    .field--name-field-image-right {
+      background: url(../images/photo-back_1.png) no-repeat;
+      background-size: contain;
+
+      .img-responsive {
+        display: block;
+        border-radius: 50%;
+        width: 88%;
+        margin: 0;
+        box-sizing: border-box;
+        padding: 13px;
+        position: relative;
+      }
+    }
+  }
+}
