@@ -9223,12 +9223,14 @@ body {
 /* line 468, ../assets/sass/style.scss */
 .trainers-region {
   padding: 30px 0;
+  color: #6C6D6F;
+  text-shadow: -1px 0px 0px #6C6D6F;
 }
-/* line 471, ../assets/sass/style.scss */
+/* line 473, ../assets/sass/style.scss */
 .trainers-region .grid__content.form-group {
-  min-height: 260px;
+  min-height: 200px;
 }
-/* line 475, ../assets/sass/style.scss */
+/* line 477, ../assets/sass/style.scss */
 .trainers-region .viewsreference--view-title {
   color: #E00000;
   text-transform: uppercase;
@@ -9238,12 +9240,12 @@ body {
   text-align: center;
   text-shadow: -1px -1px 3px #E00000;
 }
-/* line 485, ../assets/sass/style.scss */
+/* line 487, ../assets/sass/style.scss */
 .trainers-region .group-left .aikido-photo {
   background: url(../images/photo-back.png) no-repeat;
   background-size: contain;
 }
-/* line 489, ../assets/sass/style.scss */
+/* line 491, ../assets/sass/style.scss */
 .trainers-region .group-left .aikido-photo .img-responsive {
   display: block;
   border-radius: 50%;
@@ -9251,4 +9253,28 @@ body {
   margin: 0;
   box-sizing: border-box;
   padding: 13px;
+  position: relative;
 }
+/* line 503, ../assets/sass/style.scss */
+.trainers-region .group-right h2 {
+  font-size: 2.4rem;
+  min-height: 80px;
+}
+/* line 507, ../assets/sass/style.scss */
+.trainers-region .group-right .aikido-belt {
+  font-size: 1.5rem;
+}
+/* line 510, ../assets/sass/style.scss */
+.trainers-region .group-right .dan-grading {
+  font-size: 1.5rem;
+}
+/* line 515, ../assets/sass/style.scss */
+.trainers-region .trainer-1 {
+  font-size: 2.4rem;
+}
+/* line 519, ../assets/sass/style.scss */
+.trainers-region .instructors-1 {
+  font-size: 2.4rem;
+}
+
+/** -- Schedule-training-region  theming --*/

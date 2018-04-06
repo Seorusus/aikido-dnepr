@@ -467,9 +467,11 @@ body {
 
 .trainers-region {
   padding: 30px 0;
+  color: #6C6D6F;
+  text-shadow: -1px 0px 0px #6C6D6F;
 
   .grid__content.form-group {
-    min-height: 260px;
+    min-height: 200px;
   }
 
   .viewsreference--view-title {
@@ -493,7 +495,34 @@ body {
         margin: 0;
         box-sizing: border-box;
         padding: 13px;
-       }
+        position: relative;
+      }
+     }
+  }
+  .group-right {
+    h2 {
+      font-size: 2.4rem;
+      min-height: 80px;
+    }
+    .aikido-belt {
+      font-size: 1.5rem;
+    }
+    .dan-grading {
+      font-size: 1.5rem;
     }
   }
+
+  .trainer-1 {
+    font-size: 2.4rem;
+  }
+
+  .instructors-1 {
+    font-size: 2.4rem;
+  }
+}
+
+/** -- Schedule-training-region  theming --*/
+
+.schedule-training-region {
+
 }
