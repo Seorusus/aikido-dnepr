@@ -555,9 +555,10 @@ body {
       grid-template-columns: 1fr 1fr 1fr;
       grid-gap: 2%;
     }
+
     .group-schedule {
       min-width: 220px;
-      background-color: #ccc;
+      background-color: #cccccc;
       padding: 0px 30px 15px 30px;
 
       .field--name-field-group-title {
@@ -597,7 +598,7 @@ body {
 
     .group-schedule {
       min-width: 220px;
-      background-color: #ccc;
+      background-color: #e6e6e6;
       padding: 0px 30px 15px 30px;
 
       .field--name-field-group-title {
@@ -686,7 +687,7 @@ body {
       .img-responsive {
         display: block;
         border-radius: 50%;
-        width: 88%;
+        width: 100%;
         margin: 0;
         box-sizing: border-box;
         padding: 13px;
@@ -694,4 +695,13 @@ body {
       }
     }
   }
+}
+
+/** -- News-region theming --*/
+
+.news-region {
+  background-color: #F7F7F7;
+  margin: 20px 0 0 0;
+  padding: 30px 50px 50px 50px;
+  font-size: 1.7rem;
 }

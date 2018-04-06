@@ -9314,31 +9314,31 @@ body {
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 2%;
 }
-/* line 558, ../assets/sass/style.scss */
+/* line 559, ../assets/sass/style.scss */
 .schedule-training-region .schedule-group-region .group-schedule {
   min-width: 220px;
-  background-color: #ccc;
+  background-color: #cccccc;
   padding: 0px 30px 15px 30px;
 }
-/* line 563, ../assets/sass/style.scss */
+/* line 564, ../assets/sass/style.scss */
 .schedule-training-region .schedule-group-region .group-schedule .field--name-field-group-title {
   font-size: 2.3rem;
   color: #E00000;
   font-weight: 700;
   line-height: 6rem;
 }
-/* line 570, ../assets/sass/style.scss */
+/* line 571, ../assets/sass/style.scss */
 .schedule-training-region .schedule-group-region .group-schedule .field--items {
   display: block;
   font-size: 2.05rem;
   font-weight: 700;
   line-height: 4rem;
 }
-/* line 579, ../assets/sass/style.scss */
+/* line 580, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region {
   padding: 0 30px;
 }
-/* line 582, ../assets/sass/style.scss */
+/* line 583, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region h3 {
   text-transform: uppercase;
   font-weight: 700;
@@ -9348,33 +9348,33 @@ body {
   color: #333333;
   text-shadow: none;
 }
-/* line 592, ../assets/sass/style.scss */
+/* line 593, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region .field--items {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-gap: 2%;
 }
-/* line 598, ../assets/sass/style.scss */
+/* line 599, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region .group-schedule {
   min-width: 220px;
-  background-color: #ccc;
+  background-color: #e6e6e6;
   padding: 0px 30px 15px 30px;
 }
-/* line 603, ../assets/sass/style.scss */
+/* line 604, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region .group-schedule .field--name-field-group-title {
   font-size: 2.3rem;
   color: #E00000;
   font-weight: 700;
   line-height: 6rem;
 }
-/* line 610, ../assets/sass/style.scss */
+/* line 611, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region .group-schedule .field--items {
   display: block;
   font-size: 2.05rem;
   font-weight: 700;
   line-height: 4rem;
 }
-/* line 618, ../assets/sass/style.scss */
+/* line 619, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region .field--name-field-form-button a {
   margin-top: 30px;
   display: inline-block;
@@ -9387,7 +9387,7 @@ body {
   font-weight: 900;
   border-radius: 3px;
 }
-/* line 630, ../assets/sass/style.scss */
+/* line 631, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region .field--name-field-form-button a:hover {
   background: #8F0000;
   -webkit-transition-duration: .3s;
@@ -9396,7 +9396,7 @@ body {
   transition-duration: .3s;
   left: 0;
 }
-/* line 640, ../assets/sass/style.scss */
+/* line 641, ../assets/sass/style.scss */
 .schedule-training-region .group-schedule-region .field--name-field-button-schedule-title {
   color: #6C6D6F;
   text-shadow: -1px 0px 0px #6C6D6F;
@@ -9405,17 +9405,17 @@ body {
 }
 
 /** -- Our-club-region theming --*/
-/* line 652, ../assets/sass/style.scss */
+/* line 653, ../assets/sass/style.scss */
 .our-club-region {
   margin-top: 50px;
   margin-bottom: 50px;
 }
-/* line 656, ../assets/sass/style.scss */
+/* line 657, ../assets/sass/style.scss */
 .our-club-region .group-left {
   width: 70%;
   margin-right: 5%;
 }
-/* line 660, ../assets/sass/style.scss */
+/* line 661, ../assets/sass/style.scss */
 .our-club-region .group-left .field--name-field-title {
   text-align: left;
   color: #E00000;
@@ -9426,28 +9426,37 @@ body {
   /* text-align: center; */
   text-shadow: -1px -1px 3px #E00000;
 }
-/* line 671, ../assets/sass/style.scss */
+/* line 672, ../assets/sass/style.scss */
 .our-club-region .group-left .field--name-field-description-left {
   color: #6C6D6F;
   text-shadow: -1px 0px 0px #6C6D6F;
   font-weight: 700;
 }
-/* line 679, ../assets/sass/style.scss */
+/* line 680, ../assets/sass/style.scss */
 .our-club-region .group-right {
   width: 25%;
 }
-/* line 682, ../assets/sass/style.scss */
+/* line 683, ../assets/sass/style.scss */
 .our-club-region .group-right .field--name-field-image-right {
   background: url(../images/photo-back_1.png) no-repeat;
   background-size: contain;
 }
-/* line 686, ../assets/sass/style.scss */
+/* line 687, ../assets/sass/style.scss */
 .our-club-region .group-right .field--name-field-image-right .img-responsive {
   display: block;
   border-radius: 50%;
-  width: 88%;
+  width: 100%;
   margin: 0;
   box-sizing: border-box;
   padding: 13px;
   position: relative;
+}
+
+/** -- News-region theming --*/
+/* line 702, ../assets/sass/style.scss */
+.news-region {
+  background-color: #F7F7F7;
+  margin: 20px 0 0 0;
+  padding: 30px 50px 50px 50px;
+  font-size: 1.7rem;
 }
