@@ -9595,3 +9595,36 @@ body {
   font-weight: 700;
   font-style: italic;
 }
+
+/** -- Footer theming --*/
+/* line 853, ../assets/sass/style.scss */
+.menu--footer {
+  width: 50%;
+  float: left;
+}
+/* line 857, ../assets/sass/style.scss */
+.menu--footer .menu-icon {
+  display: block;
+}
+/* line 860, ../assets/sass/style.scss */
+.menu--footer .menu-icon a {
+  background-size: contain;
+  padding-left: 50px !important;
+}
+
+/* line 867, ../assets/sass/style.scss */
+.social-links {
+  width: 50%;
+  float: right;
+}
+
+/* line 872, ../assets/sass/style.scss */
+.copyright {
+  display: block;
+  text-align: left;
+  clear: both;
+}
+/* line 877, ../assets/sass/style.scss */
+.copyright .field--name-body {
+  display: inline-block;
+}

@@ -847,3 +847,35 @@ body {
     }
   }
 }
+
+/** -- Footer theming --*/
+
+.menu--footer{
+  width: 50%;
+  float: left;
+
+  .menu-icon {
+    display: block;
+
+    a {
+      background-size: contain;
+      padding-left: 50px!important;
+    }
+  }
+}
+
+.social-links {
+  width: 50%;
+  float: right;
+}
+
+.copyright {
+  display: block;
+  text-align: left;
+  clear: both;
+
+ .field--name-body {
+    display: inline-block;
+  }
+
+}
