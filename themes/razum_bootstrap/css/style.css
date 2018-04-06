@@ -9546,3 +9546,52 @@ body {
   transition-duration: .3s;
   left: 0;
 }
+
+/** -- Photogalery-region theming --*/
+/* line 798, ../assets/sass/style.scss */
+.photogalery-region {
+  background-color: #E9E9E9;
+  margin-top: -20px;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 50px;
+}
+/* line 806, ../assets/sass/style.scss */
+.photogalery-region .view-photogalery .grid {
+  margin-bottom: 30px;
+}
+
+/** -- Gyms-schedule-region theming --*/
+/* line 816, ../assets/sass/style.scss */
+.gyms-schedule-region h3 {
+  text-align: center;
+  color: #E00000;
+  font-weight: 700;
+  font-size: 3.5rem;
+  padding: 7px 0 20px 0;
+}
+/* line 824, ../assets/sass/style.scss */
+.gyms-schedule-region .field--name-field-title {
+  margin: 0;
+  color: #6C6D6F;
+  font-size: 2.5rem;
+  font-weight: 700;
+  padding: 0 0 12px 0;
+}
+/* line 832, ../assets/sass/style.scss */
+.gyms-schedule-region .paragraph--type-gyms-schedule-tech {
+  width: 50%;
+  float: left;
+}
+/* line 837, ../assets/sass/style.scss */
+.gyms-schedule-region .paragraph--type-gyms-schedule-tech .group-left {
+  width: 18%;
+}
+/* line 841, ../assets/sass/style.scss */
+.gyms-schedule-region .paragraph--type-gyms-schedule-tech .group-right {
+  width: 82%;
+  color: #6C6D6F;
+  font-size: 2.1rem;
+  font-weight: 700;
+  font-style: italic;
+}
