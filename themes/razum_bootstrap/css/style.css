@@ -9093,3 +9093,37 @@ body {
 }
 
 /** -- Group-lessons-region theming --*/
+/* line 345, ../assets/sass/style.scss */
+.group-lessons-region {
+  margin: 20px 0 0 0;
+  padding: 30px 50px 50px 50px;
+  font-size: 1.7rem;
+  position: relative;
+  overflow: hidden;
+}
+/* line 352, ../assets/sass/style.scss */
+.group-lessons-region:before {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  top: -50%;
+  left: -50%;
+  z-index: -1;
+  background: url(../images/back-element.jpg) 0 0 repeat;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+/* line 367, ../assets/sass/style.scss */
+.group-lessons-region h3 {
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 3.7rem;
+  padding: 0 0 20px 0;
+  text-align: center;
+  text-shadow: -1px -1px 3px #fff;
+}
