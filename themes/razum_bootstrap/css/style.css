@@ -9460,3 +9460,89 @@ body {
   padding: 30px 50px 50px 50px;
   font-size: 1.7rem;
 }
+/* line 704, ../assets/sass/style.scss */
+.news-region .node--type-news {
+  border-bottom: solid #ccc 1px;
+  margin-bottom: 40px;
+  padding-bottom: 20px;
+}
+/* line 715, ../assets/sass/style.scss */
+.news-region .group-left {
+  width: 24%;
+  margin-right: 4%;
+}
+/* line 720, ../assets/sass/style.scss */
+.news-region .group-right {
+  width: 72%;
+}
+/* line 723, ../assets/sass/style.scss */
+.news-region .group-right .field--name-body {
+  min-height: 143px;
+}
+/* line 727, ../assets/sass/style.scss */
+.news-region .group-right .field--name-node-title h3 {
+  margin: 0;
+  color: #6C6D6F;
+  text-shadow: -1px 0px 0px #6C6D6F;
+  font-size: 2.5rem;
+  font-weight: 700;
+  padding: 0 0 12px 0;
+}
+/* line 736, ../assets/sass/style.scss */
+.news-region .group-right .field--name-node-post-date {
+  color: #8c8c8c;
+  font-weight: 700;
+  display: inline-block;
+  margin-top: 10px;
+}
+/* line 743, ../assets/sass/style.scss */
+.news-region .group-right .list-inline {
+  display: inline-block;
+  float: right;
+  margin-top: 10px;
+}
+/* line 748, ../assets/sass/style.scss */
+.news-region .group-right .list-inline li.node-readmore a {
+  display: inline-block;
+  padding: 5px;
+  border: solid 1px #8c8c8c;
+  color: #8c8c8c;
+  text-decoration: none;
+}
+/* line 755, ../assets/sass/style.scss */
+.news-region .group-right .list-inline li.node-readmore a:hover {
+  background: #595959;
+  color: #fff;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  left: 0;
+}
+/* line 768, ../assets/sass/style.scss */
+.news-region .more-link.form-group {
+  text-align: center;
+}
+/* line 771, ../assets/sass/style.scss */
+.news-region .more-link.form-group a {
+  text-decoration: none;
+  color: #595959;
+  font-size: 2.2rem;
+}
+/* line 775, ../assets/sass/style.scss */
+.news-region .more-link.form-group a:after {
+  content: '>';
+  font-size: 3.2rem;
+  padding-left: 8px;
+  position: relative;
+  top: 5px;
+}
+/* line 784, ../assets/sass/style.scss */
+.news-region .more-link.form-group a:hover {
+  color: #262626;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  left: 0;
+}
