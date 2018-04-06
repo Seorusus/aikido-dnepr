@@ -8941,7 +8941,6 @@ body {
   -o-transition-duration: .3s;
   -moz-transition-duration: .3s;
   transition-duration: .3s;
-  transition: 1s;
   left: 0;
 }
 
@@ -9007,8 +9006,17 @@ body {
   font-weight: 900;
   border-radius: 3px;
 }
+/* line 262, ../assets/sass/style.scss */
+._slide-button a:hover {
+  background: #8F0000;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  left: 0;
+}
 
-/* line 263, ../assets/sass/style.scss */
+/* line 272, ../assets/sass/style.scss */
 ._slide-description-bottom {
   display: inline-block;
   width: 52%;
@@ -9021,28 +9029,28 @@ body {
 }
 
 /** -- About-region theming --*/
-/* line 276, ../assets/sass/style.scss */
+/* line 285, ../assets/sass/style.scss */
 .about-region {
   margin-top: 40px;
   font-size: 2rem;
   color: #6C6D6F;
   text-shadow: -1px 0px 0px #6C6D6F;
 }
-/* line 282, ../assets/sass/style.scss */
+/* line 291, ../assets/sass/style.scss */
 .about-region .group-left {
   width: 30%;
 }
-/* line 285, ../assets/sass/style.scss */
+/* line 294, ../assets/sass/style.scss */
 .about-region .group-right {
   width: 70%;
 }
-/* line 289, ../assets/sass/style.scss */
+/* line 298, ../assets/sass/style.scss */
 .about-region .group-footer {
   padding-top: 35px;
 }
 
 /** -- Federation-region theming --*/
-/* line 296, ../assets/sass/style.scss */
+/* line 305, ../assets/sass/style.scss */
 .federation-region {
   background: url(../images/aikido_aikido.png) no-repeat 10% 96%;
   background-color: #F7F7F7;
@@ -9051,57 +9059,57 @@ body {
   padding: 30px 50px 50px 50px;
   font-size: 1.7rem;
 }
-/* line 304, ../assets/sass/style.scss */
+/* line 313, ../assets/sass/style.scss */
 .federation-region .group-left {
   width: 48%;
   margin-right: 1%;
 }
-/* line 308, ../assets/sass/style.scss */
+/* line 317, ../assets/sass/style.scss */
 .federation-region .group-right {
   width: 48%;
   margin-left: 1%;
 }
-/* line 312, ../assets/sass/style.scss */
+/* line 321, ../assets/sass/style.scss */
 .federation-region .group-right .img-responsive {
   margin: 50px auto;
 }
 
 /** -- Attestations-region theming --*/
-/* line 320, ../assets/sass/style.scss */
+/* line 329, ../assets/sass/style.scss */
 .attestations-region {
   margin: 20px 0 0 0;
   padding: 30px 50px 50px 50px;
   font-size: 1.7rem;
 }
-/* line 325, ../assets/sass/style.scss */
+/* line 334, ../assets/sass/style.scss */
 .attestations-region .group-left {
   width: 5%;
   margin-right: 1%;
 }
-/* line 329, ../assets/sass/style.scss */
+/* line 338, ../assets/sass/style.scss */
 .attestations-region .group-middle {
   width: 73%;
 }
-/* line 333, ../assets/sass/style.scss */
+/* line 342, ../assets/sass/style.scss */
 .attestations-region .group-right {
   width: 20%;
   margin-left: 1%;
 }
-/* line 338, ../assets/sass/style.scss */
+/* line 347, ../assets/sass/style.scss */
 .attestations-region .field--item {
   margin-top: 20px;
 }
 
 /** -- Group-lessons-region theming --*/
-/* line 345, ../assets/sass/style.scss */
+/* line 354, ../assets/sass/style.scss */
 .group-lessons-region {
   margin: 20px 0 0 0;
-  padding: 30px 50px 50px 50px;
+  padding: 30px 60px 50px 60px;
   font-size: 1.7rem;
   position: relative;
   overflow: hidden;
 }
-/* line 352, ../assets/sass/style.scss */
+/* line 361, ../assets/sass/style.scss */
 .group-lessons-region:before {
   content: "";
   position: absolute;
@@ -9117,7 +9125,7 @@ body {
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 }
-/* line 367, ../assets/sass/style.scss */
+/* line 376, ../assets/sass/style.scss */
 .group-lessons-region h3 {
   color: #fff;
   text-transform: uppercase;
@@ -9126,4 +9134,63 @@ body {
   padding: 0 0 20px 0;
   text-align: center;
   text-shadow: -1px -1px 3px #fff;
+}
+/* line 385, ../assets/sass/style.scss */
+.group-lessons-region .group-container {
+  background-color: #F7F7F7;
+  min-width: 260px;
+  min-height: 200px;
+  margin-bottom: 50px;
+  padding: 17px;
+  border-radius: 3px;
+}
+/* line 394, ../assets/sass/style.scss */
+.group-lessons-region .group-container ._title {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+/* line 399, ../assets/sass/style.scss */
+.group-lessons-region .group-container ._description {
+  text-transform: lowercase;
+  font-weight: 500;
+  font-size: 1rem;
+  font-weight: 700;
+  font-size: 1.7rem;
+}
+/* line 406, ../assets/sass/style.scss */
+.group-lessons-region .group-container ._button {
+  text-align: center;
+}
+/* line 409, ../assets/sass/style.scss */
+.group-lessons-region .group-container ._button a {
+  margin-top: 30px;
+  display: inline-block;
+  background: #E00000;
+  padding: 10px 30px;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  font-weight: 900;
+  border-radius: 3px;
+}
+/* line 421, ../assets/sass/style.scss */
+.group-lessons-region .group-container ._button a:hover {
+  background: #8F0000;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  left: 0;
+}
+/* line 433, ../assets/sass/style.scss */
+.group-lessons-region .group-middle .field--name-field-image {
+  text-align: center;
+}
+/* line 435, ../assets/sass/style.scss */
+.group-lessons-region .group-middle .field--name-field-image .img-responsive {
+  border-radius: 50%;
+  width: 60%;
+  margin: 0 auto;
 }

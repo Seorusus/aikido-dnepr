@@ -198,7 +198,7 @@ body {
       -o-transition-duration: .3s;
       -moz-transition-duration: .3s;
       transition-duration: .3s;
-      transition: 1s;
+      //transition: 1s;
       left: 0;
     }
   }
@@ -258,6 +258,15 @@ body {
     font-size: 2.5rem;
     font-weight: 900;
     border-radius: 3px;
+
+    &:hover {
+      background: #8F0000;
+      -webkit-transition-duration: .3s;
+      -o-transition-duration: .3s;
+      -moz-transition-duration: .3s;
+      transition-duration: .3s;
+      left: 0;
+    }
   }
 }
 ._slide-description-bottom {
@@ -344,7 +353,7 @@ body {
 
 .group-lessons-region {
   margin: 20px 0 0 0;
-  padding: 30px 50px 50px 50px;
+  padding: 30px 60px 50px 60px;
   font-size: 1.7rem;
   position: relative;
   overflow: hidden;
@@ -372,5 +381,62 @@ body {
     padding: 0 0 20px 0;
     text-align: center;
     text-shadow: -1px -1px 3px #fff;
+  }
+  .group-container {
+    background-color: #F7F7F7;
+    min-width: 260px;
+    min-height:200px;
+    margin-bottom: 50px;
+    padding: 17px;
+    border-radius: 3px;
+
+
+    ._title {
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 2.5rem;
+    }
+    ._description {
+      text-transform: lowercase;
+      font-weight: 500;
+      font-size: 1rem;
+      font-weight: 700;
+      font-size: 1.7rem;
+    }
+    ._button {
+      text-align: center;
+
+      a {
+        margin-top: 30px;
+        display: inline-block;
+        background: #E00000;
+        padding: 10px 30px;
+        text-decoration: none;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 2.5rem;
+        font-weight: 900;
+        border-radius: 3px;
+
+        &:hover {
+          background: #8F0000;
+          -webkit-transition-duration: .3s;
+          -o-transition-duration: .3s;
+          -moz-transition-duration: .3s;
+          transition-duration: .3s;
+          left: 0;
+        }
+      }
+    }
+  }
+  .group-middle {
+    .field--name-field-image {
+      text-align: center;
+      .img-responsive {
+        border-radius: 50%;
+        width: 60%;
+        margin: 0 auto;
+      }
+    }
   }
 }
