@@ -297,8 +297,8 @@ body {
   background: url(../images/aikido_aikido.png) no-repeat 10% 96%;
   background-color: #F7F7F7;
   background-size: 30%;
-  margin: 0;
-  padding: 50px;
+  margin: 20px 0 0 0;
+  padding: 30px 50px 50px 50px;
   font-size: 1.7rem;
 
   .group-left {
@@ -315,3 +315,33 @@ body {
   }
 }
 
+/** -- Attestations-region theming --*/
+
+.attestations-region {
+  margin: 20px 0 0 0;
+  padding: 30px 50px 50px 50px;
+  font-size: 1.7rem;
+
+  .group-left {
+    width: 5%;
+    margin-right: 1%;
+  }
+  .group-middle {
+    width: 73%;
+    //margin-right: 1%;
+}
+  .group-right {
+    width: 20%;
+    margin-left: 1%;
+  }
+
+  .field--item {
+    margin-top: 20px;
+  }
+}
+
+/** -- Group-lessons-region theming --*/
+
+.group-lessons-region {
+
+}
