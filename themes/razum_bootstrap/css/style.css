@@ -9153,16 +9153,14 @@ body {
 /* line 399, ../assets/sass/style.scss */
 .group-lessons-region .group-container ._description {
   text-transform: lowercase;
-  font-weight: 500;
-  font-size: 1rem;
   font-weight: 700;
   font-size: 1.7rem;
 }
-/* line 406, ../assets/sass/style.scss */
+/* line 404, ../assets/sass/style.scss */
 .group-lessons-region .group-container ._button {
   text-align: center;
 }
-/* line 409, ../assets/sass/style.scss */
+/* line 407, ../assets/sass/style.scss */
 .group-lessons-region .group-container ._button a {
   margin-top: 30px;
   display: inline-block;
@@ -9175,7 +9173,7 @@ body {
   font-weight: 900;
   border-radius: 3px;
 }
-/* line 421, ../assets/sass/style.scss */
+/* line 419, ../assets/sass/style.scss */
 .group-lessons-region .group-container ._button a:hover {
   background: #8F0000;
   -webkit-transition-duration: .3s;
@@ -9184,13 +9182,73 @@ body {
   transition-duration: .3s;
   left: 0;
 }
-/* line 433, ../assets/sass/style.scss */
+/* line 431, ../assets/sass/style.scss */
 .group-lessons-region .group-middle .field--name-field-image {
   text-align: center;
 }
-/* line 435, ../assets/sass/style.scss */
+/* line 433, ../assets/sass/style.scss */
 .group-lessons-region .group-middle .field--name-field-image .img-responsive {
   border-radius: 50%;
   width: 60%;
   margin: 0 auto;
+}
+/* line 440, ../assets/sass/style.scss */
+.group-lessons-region .container-right {
+  border-top: solid 1px #ccc;
+  border-bottom: solid 1px #ccc;
+  min-width: 260px;
+  min-height: 200px;
+  margin-bottom: 50px;
+  padding: 17px;
+  border-radius: 3px;
+}
+/* line 449, ../assets/sass/style.scss */
+.group-lessons-region .container-right ._description-right-1 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2.5rem;
+  color: #fff;
+  line-height: 4rem;
+}
+/* line 456, ../assets/sass/style.scss */
+.group-lessons-region .container-right ._description-right-2 {
+  text-transform: lowercase;
+  font-weight: 700;
+  font-size: 1.7rem;
+  color: #fff;
+  line-height: 4rem;
+}
+
+/** -- Trainers-region theming --*/
+/* line 468, ../assets/sass/style.scss */
+.trainers-region {
+  padding: 30px 0;
+}
+/* line 471, ../assets/sass/style.scss */
+.trainers-region .grid__content.form-group {
+  min-height: 260px;
+}
+/* line 475, ../assets/sass/style.scss */
+.trainers-region .viewsreference--view-title {
+  color: #E00000;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 3.7rem;
+  padding: 0 0 20px 0;
+  text-align: center;
+  text-shadow: -1px -1px 3px #E00000;
+}
+/* line 485, ../assets/sass/style.scss */
+.trainers-region .group-left .aikido-photo {
+  background: url(../images/photo-back.png) no-repeat;
+  background-size: contain;
+}
+/* line 489, ../assets/sass/style.scss */
+.trainers-region .group-left .aikido-photo .img-responsive {
+  display: block;
+  border-radius: 50%;
+  width: 88%;
+  margin: 0;
+  box-sizing: border-box;
+  padding: 13px;
 }
