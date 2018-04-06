@@ -9278,3 +9278,129 @@ body {
 }
 
 /** -- Schedule-training-region  theming --*/
+/* line 526, ../assets/sass/style.scss */
+.schedule-training-region {
+  background-color: #B2BCC3;
+  padding: 25px 25px 50px 25px;
+}
+/* line 530, ../assets/sass/style.scss */
+.schedule-training-region h3 {
+  color: #E00000;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 3.7rem;
+  padding: 0 0 20px 0;
+  text-align: center;
+  text-shadow: -1px -1px 3px #E00000;
+}
+/* line 540, ../assets/sass/style.scss */
+.schedule-training-region .schedule-group-region {
+  padding: 0 90px;
+}
+/* line 542, ../assets/sass/style.scss */
+.schedule-training-region .schedule-group-region h3 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 4rem;
+  text-align: left;
+  color: #333333;
+  text-shadow: none;
+}
+/* line 551, ../assets/sass/style.scss */
+.schedule-training-region .schedule-group-region .field--items {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2%;
+}
+/* line 556, ../assets/sass/style.scss */
+.schedule-training-region .schedule-group-region .group-schedule {
+  min-width: 220px;
+  background-color: #ccc;
+  padding: 0px 30px 15px 30px;
+}
+/* line 561, ../assets/sass/style.scss */
+.schedule-training-region .schedule-group-region .group-schedule .field--name-field-group-title {
+  font-size: 2.3rem;
+  color: #E00000;
+  font-weight: 700;
+  line-height: 6rem;
+}
+/* line 568, ../assets/sass/style.scss */
+.schedule-training-region .schedule-group-region .group-schedule .field--items {
+  display: block;
+  font-size: 2.05rem;
+  font-weight: 700;
+  line-height: 4rem;
+}
+/* line 577, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region {
+  padding: 0 90px;
+}
+/* line 579, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region h3 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 2.5rem;
+  line-height: 4rem;
+  text-align: left;
+  color: #333333;
+  text-shadow: none;
+}
+/* line 589, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region .field--items {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2%;
+}
+/* line 595, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region .group-schedule {
+  min-width: 220px;
+  background-color: #ccc;
+  padding: 0px 30px 15px 30px;
+}
+/* line 600, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region .group-schedule .field--name-field-group-title {
+  font-size: 2.3rem;
+  color: #E00000;
+  font-weight: 700;
+  line-height: 6rem;
+}
+/* line 607, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region .group-schedule .field--items {
+  display: block;
+  font-size: 2.05rem;
+  font-weight: 700;
+  line-height: 4rem;
+}
+/* line 615, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region .field--name-field-form-button a {
+  margin-top: 30px;
+  display: inline-block;
+  background: #E00000;
+  padding: 10px 30px;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  font-weight: 900;
+  border-radius: 3px;
+}
+/* line 627, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region .field--name-field-form-button a:hover {
+  background: #8F0000;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  left: 0;
+}
+/* line 637, ../assets/sass/style.scss */
+.schedule-training-region .group-schedule-region .field--name-field-button-schedule-title {
+  color: #6C6D6F;
+  text-shadow: -1px 0px 0px #6C6D6F;
+  line-height: 4rem;
+  font-size: 1.8rem;
+}
+
+/** -- Schedule-training-region  theming --*/
