@@ -1,6 +1,6 @@
 (function($) {
     $(document).ready(function(){
-        $(".anchor-menu ul li a").click(function(){
+        $(".anchor-menu a").click(function(){
             if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
                 var target = $(this.hash);
                 target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
