@@ -9609,8 +9609,8 @@ body {
 .entry-training-region:before {
   content: "";
   position: absolute;
-  width: 400%;
-  height: 700%;
+  width: 600%;
+  height: 800%;
   top: -50%;
   left: -50%;
   z-index: -1;
@@ -9622,6 +9622,10 @@ body {
   transform: rotate(45deg);
 }
 /* line 876, ../assets/sass/style.scss */
+.entry-training-region .form-item {
+  margin-bottom: 38px;
+}
+/* line 880, ../assets/sass/style.scss */
 .entry-training-region .webform-title {
   text-align: left;
   color: #E00000;
@@ -9629,36 +9633,144 @@ body {
   font-size: 3.5rem;
   padding: 7px 0 20px 0;
 }
+/* line 888, ../assets/sass/style.scss */
+.entry-training-region .group-left {
+  width: 60%;
+  padding: 0 30px 30px 30px;
+}
+/* line 893, ../assets/sass/style.scss */
+.entry-training-region .group-right {
+  width: 40%;
+  padding-top: 30px;
+}
+/* line 899, ../assets/sass/style.scss */
+.entry-training-region button#edit-actions-submit {
+  margin-top: 30px;
+  display: inline-block;
+  background: #E00000;
+  padding: 10px 30px;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  font-weight: 900;
+  border-radius: 3px;
+  border: none;
+}
+/* line 912, ../assets/sass/style.scss */
+.entry-training-region button#edit-actions-submit:hover {
+  background: #8F0000;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  left: 0;
+}
+
+/** -- Federation-map-region theming --*/
+/* line 925, ../assets/sass/style.scss */
+.federation-map {
+  margin-top: -20px;
+  margin-left: 0;
+  margin-right: 0;
+  padding-top: 50px;
+}
+/* line 931, ../assets/sass/style.scss */
+.federation-map h3 {
+  margin: 0;
+  color: #6C6D6F;
+  font-size: 2.5rem;
+  font-weight: 700;
+  padding: 20px;
+}
 
 /** -- Footer theming --*/
-/* line 887, ../assets/sass/style.scss */
-.menu--footer {
+/* line 942, ../assets/sass/style.scss */
+.footer {
+  margin: 0 auto;
+  padding: 0 15px;
+  border: none;
+}
+/* line 947, ../assets/sass/style.scss */
+.footer .region-footer {
+  position: relative;
+  overflow: hidden;
+  padding: 20px;
+}
+/* line 952, ../assets/sass/style.scss */
+.footer .region-footer:before {
+  content: "";
+  position: absolute;
+  padding: 20px;
+  width: 500%;
+  height: 850%;
+  top: -50%;
+  left: -50%;
+  z-index: -1;
+  background: url(../images/back-element.jpg) 0 0 repeat;
+  -webkit-transform: rotate(45deg);
+  -moz-transform: rotate(45deg);
+  -ms-transform: rotate(45deg);
+  -o-transform: rotate(45deg);
+  transform: rotate(45deg);
+}
+/* line 969, ../assets/sass/style.scss */
+.footer .region-footer .menu--footer {
   width: 50%;
   float: left;
 }
-/* line 891, ../assets/sass/style.scss */
-.menu--footer .menu-icon {
+/* line 973, ../assets/sass/style.scss */
+.footer .region-footer .menu--footer .menu-icon {
   display: block;
+  margin-right: 20px;
 }
-/* line 894, ../assets/sass/style.scss */
-.menu--footer .menu-icon a {
+/* line 977, ../assets/sass/style.scss */
+.footer .region-footer .menu--footer .menu-icon a {
   background-size: contain;
-  padding-left: 50px !important;
+  padding-left: 70px !important;
+  margin-bottom: 8px;
+  color: #fff;
+  font-size: 2.1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  background-position: 2% center;
 }
-
-/* line 901, ../assets/sass/style.scss */
-.social-links {
+/* line 987, ../assets/sass/style.scss */
+.footer .region-footer .menu--footer .menu-icon a:hover {
+  color: #8c8c8c;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  left: 0;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  border-radius: 3px;
+}
+/* line 1002, ../assets/sass/style.scss */
+.footer .region-footer .social-links {
   width: 50%;
   float: right;
 }
-
-/* line 906, ../assets/sass/style.scss */
-.copyright {
+/* line 1006, ../assets/sass/style.scss */
+.footer .region-footer .social-links .fa {
+  color: #ffffff;
+  font-size: 2.5rem;
+  font-weight: 500;
+  line-height: 3.3rem;
+}
+/* line 1014, ../assets/sass/style.scss */
+.footer .region-footer .copyright {
   display: block;
   text-align: left;
   clear: both;
+  color: #fff;
+  font-size: 2.1rem;
+  font-weight: 700;
+  font-style: italic;
+  padding: 20px;
 }
-/* line 911, ../assets/sass/style.scss */
-.copyright .field--name-body {
+/* line 1024, ../assets/sass/style.scss */
+.footer .region-footer .copyright .field--name-body {
   display: inline-block;
 }
