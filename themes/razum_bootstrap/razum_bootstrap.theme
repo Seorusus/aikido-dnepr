@@ -6,3 +6,9 @@
  *
  * Place your custom PHP code in this file.
  */
+
+function razum_bootstrap_preprocess_page(&$vars) {
+  //custom logic of when to include the library
+  // ....
+  $vars['#attached']['library'][] =  'core/drupal.dialog.ajax';
+}

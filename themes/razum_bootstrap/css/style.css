@@ -9667,15 +9667,39 @@ body {
   left: 0;
 }
 
+/* line 923, ../assets/sass/style.scss */
+button#edit-actions-submit {
+  margin-top: 30px;
+  display: inline-block;
+  background: #E00000;
+  padding: 10px 30px;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  font-size: 2.5rem;
+  font-weight: 900;
+  border-radius: 3px;
+  border: none;
+}
+/* line 936, ../assets/sass/style.scss */
+button#edit-actions-submit:hover {
+  background: #8F0000;
+  -webkit-transition-duration: .3s;
+  -o-transition-duration: .3s;
+  -moz-transition-duration: .3s;
+  transition-duration: .3s;
+  left: 0;
+}
+
 /** -- Federation-map-region theming --*/
-/* line 925, ../assets/sass/style.scss */
+/* line 948, ../assets/sass/style.scss */
 .federation-map {
   margin-top: -20px;
   margin-left: 0;
   margin-right: 0;
   padding-top: 50px;
 }
-/* line 931, ../assets/sass/style.scss */
+/* line 954, ../assets/sass/style.scss */
 .federation-map h3 {
   margin: 0;
   color: #6C6D6F;
@@ -9685,19 +9709,19 @@ body {
 }
 
 /** -- Footer theming --*/
-/* line 942, ../assets/sass/style.scss */
+/* line 965, ../assets/sass/style.scss */
 .footer {
   margin: 0 auto;
   padding: 0 15px;
   border: none;
 }
-/* line 947, ../assets/sass/style.scss */
+/* line 970, ../assets/sass/style.scss */
 .footer .region-footer {
   position: relative;
   overflow: hidden;
   padding: 20px;
 }
-/* line 952, ../assets/sass/style.scss */
+/* line 975, ../assets/sass/style.scss */
 .footer .region-footer:before {
   content: "";
   position: absolute;
@@ -9714,17 +9738,17 @@ body {
   -o-transform: rotate(45deg);
   transform: rotate(45deg);
 }
-/* line 969, ../assets/sass/style.scss */
+/* line 992, ../assets/sass/style.scss */
 .footer .region-footer .menu--footer {
   width: 50%;
   float: left;
 }
-/* line 973, ../assets/sass/style.scss */
+/* line 996, ../assets/sass/style.scss */
 .footer .region-footer .menu--footer .menu-icon {
   display: block;
   margin-right: 20px;
 }
-/* line 977, ../assets/sass/style.scss */
+/* line 1000, ../assets/sass/style.scss */
 .footer .region-footer .menu--footer .menu-icon a {
   background-size: contain;
   padding-left: 70px !important;
@@ -9735,7 +9759,7 @@ body {
   text-transform: uppercase;
   background-position: 2% center;
 }
-/* line 987, ../assets/sass/style.scss */
+/* line 1010, ../assets/sass/style.scss */
 .footer .region-footer .menu--footer .menu-icon a:hover {
   color: #8c8c8c;
   -webkit-transition-duration: .3s;
@@ -9747,19 +9771,19 @@ body {
   -moz-border-radius: 3px;
   border-radius: 3px;
 }
-/* line 1002, ../assets/sass/style.scss */
+/* line 1025, ../assets/sass/style.scss */
 .footer .region-footer .social-links {
   width: 50%;
   float: right;
 }
-/* line 1006, ../assets/sass/style.scss */
+/* line 1029, ../assets/sass/style.scss */
 .footer .region-footer .social-links .fa {
   color: #ffffff;
   font-size: 2.5rem;
   font-weight: 500;
   line-height: 3.3rem;
 }
-/* line 1014, ../assets/sass/style.scss */
+/* line 1037, ../assets/sass/style.scss */
 .footer .region-footer .copyright {
   display: block;
   text-align: left;
@@ -9770,7 +9794,7 @@ body {
   font-style: italic;
   padding: 20px;
 }
-/* line 1024, ../assets/sass/style.scss */
+/* line 1047, ../assets/sass/style.scss */
 .footer .region-footer .copyright .field--name-body {
   display: inline-block;
 }
