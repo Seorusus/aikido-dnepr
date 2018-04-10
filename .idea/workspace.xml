@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ea83d6f-63a7-4051-b474-a34debfd8ae7" name="Default" comment="" />
+    <list default="true" id="9ea83d6f-63a7-4051-b474-a34debfd8ae7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/README.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/config/install/responsive_menus.configuration.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/config/schema/responsive_menus.schema.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/includes/context/responsive_menus_context.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/plugins/context/responsive_menus_context_reaction_general.inc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.api.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.info.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.install" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.libraries.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.links.menu.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.module" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.permissions.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.routing.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/responsive_menus.services.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/Annotation/ResponsiveMenus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/Form/ResponsiveMenusAdminForm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/Plugin/ResponsiveMenus/CodropsGoogleNexus.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/Plugin/ResponsiveMenus/CodropsResponsiveMulti.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/Plugin/ResponsiveMenus/MeanMenu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/Plugin/ResponsiveMenus/MultiLevelPushMenu.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/Plugin/ResponsiveMenus/ResponsiveMenusSimple.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/Plugin/ResponsiveMenus/Sidr.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/ResponsiveMenusPluginBase.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/ResponsiveMenusPluginInterface.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/src/ResponsiveMenusPluginManager.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/ResponsiveMultiLevelMenu/js/responsive_menus_codrops_responsive_multi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/google_nexus/css/responsive_menus_google_nexus.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/google_nexus/js/responsive_menus_google_nexus.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/meanMenu/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/meanMenu/gpl.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/meanMenu/jquery.meanmenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/meanMenu/jquery.meanmenu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/meanMenu/meanmenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/meanMenu/meanmenu.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/meanMenu/responsive_menus_mean_menu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/mlpm/Readme.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/mlpm/css/jquery.multilevelpushmenu.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/mlpm/js/jquery.multilevelpushmenu.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/mlpm/js/jquery.multilevelpushmenu.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/mlpm/js/mlpm.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/responsive_menus_simple/css/responsive_menus_simple.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/responsive_menus_simple/js/responsive_menus_simple.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/modules/contrib/responsive_menus/styles/sidr/js/responsive_menus_sidr.js" afterPath="" />
+    </list>
     <ignored path="aikido-dnepr.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,8 +71,8 @@
       <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/assets/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="202">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -170,6 +215,24 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="aikido-dnepr" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contrib" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -183,16 +246,16 @@
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/contrib" />
+      <recent name="$PROJECT_DIR$/themes/razum_bootstrap/assets/sass" />
+      <recent name="$PROJECT_DIR$/themes/razum_bootstrap" />
+      <recent name="$PROJECT_DIR$/themes" />
+      <recent name="$PROJECT_DIR$/libraries/slick" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/themes/razum_bootstrap" />
       <recent name="$PROJECT_DIR$/core" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/themes/razum_bootstrap/assets/sass" />
-      <recent name="$PROJECT_DIR$/themes/razum_bootstrap" />
-      <recent name="$PROJECT_DIR$/modules/contrib" />
-      <recent name="$PROJECT_DIR$/themes" />
-      <recent name="$PROJECT_DIR$/libraries/slick" />
     </key>
   </component>
   <component name="RunManager">
@@ -268,12 +331,12 @@
       <workItem from="1522838728659" duration="465000" />
       <workItem from="1522841163916" duration="2778000" />
       <workItem from="1522850128903" duration="55000" />
-      <workItem from="1523366832486" duration="22000" />
+      <workItem from="1523366832486" duration="687000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17984000" />
+    <option name="totallyTimeSpent" value="18649000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -641,8 +704,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/themes/razum_bootstrap/assets/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="202">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding />
         </state>
       </provider>
